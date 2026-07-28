@@ -112,6 +112,19 @@ input, textarea { font: inherit; color: inherit; }
 .day-dots { display: flex; gap: 2px; }
 .dot { width: 4px; height: 4px; border-radius: 50%; background: var(--accent); }
 
+/* ── Month list table ───────────────────── */
+.month-list { padding: 20px 16px 12px; }
+.section-title { font-size: 13px; font-weight: 700; color: var(--muted); margin-bottom: 10px; }
+.table-wrap { overflow-x: auto; border: 1px solid var(--border); border-radius: 10px; }
+.month-table { width: 100%; border-collapse: collapse; font-size: 12.5px; }
+.month-table th {
+  background: var(--surface); color: var(--muted); font-weight: 700;
+  text-align: left; padding: 8px 10px; white-space: nowrap;
+}
+.month-table td { padding: 8px 10px; border-top: 1px solid var(--border); vertical-align: top; }
+.month-table tbody tr { cursor: pointer; touch-action: manipulation; }
+.month-table tbody tr:active { background: var(--surface2); }
+
 /* ── FAB ────────────────────────────────── */
 .fab {
   position: fixed; right: 20px; bottom: calc(var(--safe-bottom) + 20px);

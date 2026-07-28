@@ -45,6 +45,49 @@ function eventsForDay(events, date) {
   });
 }
 
+function eventsForMonth(events, year, month) {
+  const first = ymd(year, month, 1);
+  const last = ymd(year, month, new Date(year, month, 0).getDate());
+  return events
+    .filter((e) => {
+      const start = e.start_at;
+      const end = e.end_at || e.start_at;
+      return end >= first && start <= last;
+    })
+    .sort((a, b) => {
+      if (a.start_at !== b.start_at) return a.start_at < b.start_at ? -1 : 1;
+      return (a.time || '').localeCompare(b.time || '');
+    });
+}
+
+function formatDateRange(e) {
+  const s = e.start_at.slice(5).replace('-', '/');
+  if (e.end_at && e.end_at !== e.start_at) {
+    return `${s}~${e.end_at.slice(5).replace('-', '/')}`;
+  }
+  return s;
+}
+
+function renderMonthTable(year, month, events) {
+  const list = eventsForMonth(events, year, month);
+  if (list.length === 0) {
+    return '<div class="empty">이번 달 일정이 없습니다.</div>';
+  }
+  const rows = list
+    .map((e) => `<tr data-date="${e.start_at}">
+      <td>${formatDateRange(e)}</td>
+      <td>${escapeHtml(e.title)}</td>
+      <td>${escapeHtml(e.organizer || '-')}</td>
+      <td>${e.time ? escapeHtml(e.time) : '종일'}</td>
+      <td>${escapeHtml(e.location || '-')}</td>
+    </tr>`)
+    .join('');
+  return `<div class="table-wrap"><table class="month-table">
+    <thead><tr><th>날짜</th><th>제목</th><th>주최기업</th><th>시간</th><th>장소</th></tr></thead>
+    <tbody>${rows}</tbody>
+  </table></div>`;
+}
+
 const WEEKDAY_LABELS = ['일', '월', '화', '수', '목', '금', '토'];
 
 function renderCalendarGrid(year, month, events) {

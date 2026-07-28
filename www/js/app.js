@@ -43,6 +43,7 @@ function renderCalendar() {
   document.getElementById('monthLabel').textContent = `${state.year}년 ${state.month}월`;
   const filtered = filterByTags(state.merged, state.activeTags);
   document.getElementById('calendarRoot').innerHTML = renderCalendarGrid(state.year, state.month, filtered);
+  document.getElementById('monthTableRoot').innerHTML = renderMonthTable(state.year, state.month, filtered);
 }
 
 function renderTagFilter() {
@@ -217,6 +218,11 @@ function bindEvents() {
   document.getElementById('calendarRoot').addEventListener('click', (ev) => {
     const btn = ev.target.closest('.day-cell');
     if (btn) openDaySheet(btn.dataset.date);
+  });
+
+  document.getElementById('monthTableRoot').addEventListener('click', (ev) => {
+    const tr = ev.target.closest('tr[data-date]');
+    if (tr) openDaySheet(tr.dataset.date);
   });
 
   document.getElementById('tagFilter').addEventListener('click', (ev) => {
