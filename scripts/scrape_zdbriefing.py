@@ -13,6 +13,7 @@ from pathlib import Path
 sys.path.insert(0, os.path.dirname(__file__))
 from extract_events import extract_events
 from find_latest_article import find_latest_article
+from notify_fcm import send as _notify_fcm
 
 REPO_ROOT = Path(__file__).parent.parent
 EVENTS_JSON = REPO_ROOT / "data" / "events.json"
@@ -108,6 +109,7 @@ def main() -> None:
     summary = f"{len(events)}건 추출됨: {article['title']} ({article['url']})"
     print(summary)
     _notify_discord(f"📅 ZD브리핑 캘린더 갱신\n{summary}")
+    _notify_fcm("ZD브리핑 새 일정 등록", summary)
 
 
 if __name__ == "__main__":
