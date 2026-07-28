@@ -42,7 +42,7 @@ def _cors(resp):
     return resp
 
 
-@app.route("/health", methods=["GET", "OPTIONS"])
+@app.route("/health", methods=["GET"])
 def health():
     return jsonify(ok=True, data={"time": time.time()})
 
@@ -68,12 +68,12 @@ def _validate_event_payload(body: dict, *, require_title_and_date: bool) -> str 
 
 # ── 개인 일정 CRUD ────────────────────────────────────────────────────
 
-@app.route("/events/manual", methods=["GET", "OPTIONS"])
+@app.route("/events/manual", methods=["GET"])
 def list_manual_events():
     return jsonify(ok=True, data=events_store.list_manual_events())
 
 
-@app.route("/events/manual", methods=["POST", "OPTIONS"])
+@app.route("/events/manual", methods=["POST"])
 def create_manual_event():
     body = request.get_json(silent=True) or {}
     err = _validate_event_payload(body, require_title_and_date=True)
@@ -82,7 +82,7 @@ def create_manual_event():
     return jsonify(ok=True, data=events_store.create_manual_event(body)), 201
 
 
-@app.route("/events/manual/<int:event_id>", methods=["PUT", "OPTIONS"])
+@app.route("/events/manual/<int:event_id>", methods=["PUT"])
 def update_manual_event(event_id):
     body = request.get_json(silent=True) or {}
     err = _validate_event_payload(body, require_title_and_date=False)
@@ -94,7 +94,7 @@ def update_manual_event(event_id):
     return jsonify(ok=True, data=updated)
 
 
-@app.route("/events/manual/<int:event_id>", methods=["DELETE", "OPTIONS"])
+@app.route("/events/manual/<int:event_id>", methods=["DELETE"])
 def delete_manual_event(event_id):
     if not events_store.delete_manual_event(event_id):
         return jsonify(ok=False, error="not found"), 404
@@ -103,12 +103,12 @@ def delete_manual_event(event_id):
 
 # ── 자동 추출 이벤트 검수 상태 ──────────────────────────────────────────
 
-@app.route("/events/review", methods=["GET", "OPTIONS"])
+@app.route("/events/review", methods=["GET"])
 def list_review_status():
     return jsonify(ok=True, data=events_store.list_review_status())
 
 
-@app.route("/events/review/<event_id>", methods=["POST", "OPTIONS"])
+@app.route("/events/review/<event_id>", methods=["POST"])
 def set_review_status(event_id):
     body = request.get_json(silent=True) or {}
     status = body.get("status")
@@ -128,12 +128,12 @@ def set_review_status(event_id):
 
 # ── 태그 ────────────────────────────────────────────────────────────────
 
-@app.route("/tags", methods=["GET", "OPTIONS"])
+@app.route("/tags", methods=["GET"])
 def list_tags():
     return jsonify(ok=True, data=events_store.list_tags())
 
 
-@app.route("/tags", methods=["POST", "OPTIONS"])
+@app.route("/tags", methods=["POST"])
 def create_tag():
     name = (request.get_json(silent=True) or {}).get("name", "").strip()
     if not name:
@@ -141,19 +141,19 @@ def create_tag():
     return jsonify(ok=True, data=events_store.create_tag(name)), 201
 
 
-@app.route("/tags/<int:tag_id>", methods=["DELETE", "OPTIONS"])
+@app.route("/tags/<int:tag_id>", methods=["DELETE"])
 def delete_tag(tag_id):
     if not events_store.delete_tag(tag_id):
         return jsonify(ok=False, error="not found"), 404
     return jsonify(ok=True)
 
 
-@app.route("/events/<event_id>/tags", methods=["GET", "OPTIONS"])
+@app.route("/events/<event_id>/tags", methods=["GET"])
 def get_event_tags(event_id):
     return jsonify(ok=True, data=events_store.get_event_tags(event_id))
 
 
-@app.route("/events/<event_id>/tags", methods=["POST", "OPTIONS"])
+@app.route("/events/<event_id>/tags", methods=["POST"])
 def add_event_tag(event_id):
     body = request.get_json(silent=True) or {}
     tag_id = body.get("tag_id")
@@ -165,7 +165,7 @@ def add_event_tag(event_id):
     return jsonify(ok=True, data=events_store.get_event_tags(event_id))
 
 
-@app.route("/events/<event_id>/tags/<int:tag_id>", methods=["DELETE", "OPTIONS"])
+@app.route("/events/<event_id>/tags/<int:tag_id>", methods=["DELETE"])
 def remove_event_tag(event_id, tag_id):
     events_store.remove_event_tag(event_id, tag_id)
     return jsonify(ok=True, data=events_store.get_event_tags(event_id))
