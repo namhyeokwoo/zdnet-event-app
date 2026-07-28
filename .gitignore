@@ -1,0 +1,9 @@
+node_modules/
+android/
+.gradle/
+dist/
+keystore.properties
+*.keystore
+__pycache__/
+*.pyc
+.env

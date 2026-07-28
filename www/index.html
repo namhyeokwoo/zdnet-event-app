@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="theme-color" content="#0f172a">
+  <title>ZD 이벤트 캘린더</title>
+  <link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+  <header class="header">
+    <div class="header-title">ZD <em>이벤트</em></div>
+    <div class="header-actions">
+      <button type="button" class="icon-btn" id="btnBell" title="새 일정">
+        🔔<span class="badge" id="bellBadge" hidden>0</span>
+      </button>
+      <button type="button" class="icon-btn" id="btnSettings" title="설정">⚙️</button>
+    </div>
+  </header>
+
+  <div class="banner" id="hubBanner" hidden>
+    개인 서버에 연결할 수 없습니다 — 자동 수집 일정만 표시됩니다.
+  </div>
+
+  <div class="month-nav">
+    <button type="button" class="nav-btn" id="btnPrevMonth">‹</button>
+    <div class="month-label" id="monthLabel"></div>
+    <button type="button" class="nav-btn" id="btnNextMonth">›</button>
+  </div>
+
+  <div class="tag-filter" id="tagFilter"></div>
+
+  <main id="calendarRoot"></main>
+
+  <button type="button" class="fab" id="btnAdd" title="일정 추가">＋</button>
+
+  <!-- 일자 상세 패널 -->
+  <div class="sheet-backdrop" id="dayBackdrop" hidden></div>
+  <div class="sheet" id="daySheet" hidden>
+    <div class="sheet-handle"></div>
+    <div class="sheet-header">
+      <span id="daySheetTitle"></span>
+      <button type="button" class="icon-btn" id="btnCloseDay">✕</button>
+    </div>
+    <div class="sheet-body" id="dayEventList"></div>
+  </div>
+
+  <!-- 새 일정 패널 -->
+  <div class="sheet-backdrop" id="newBackdrop" hidden></div>
+  <div class="sheet" id="newSheet" hidden>
+    <div class="sheet-handle"></div>
+    <div class="sheet-header">
+      <span>새로 추가된 일정</span>
+      <button type="button" class="icon-btn" id="btnCloseNew">✕</button>
+    </div>
+    <div class="sheet-body" id="newEventList"></div>
+  </div>
+
+  <!-- 추가/수정 모달 -->
+  <div class="modal-backdrop" id="editBackdrop" hidden></div>
+  <div class="modal" id="editModal" hidden>
+    <div class="modal-header">
+      <span id="editModalTitle">일정 추가</span>
+      <button type="button" class="icon-btn" id="btnCloseEdit">✕</button>
+    </div>
+    <form id="editForm" class="modal-body">
+      <label>제목<input type="text" id="fTitle" required></label>
+      <label>주최기업<input type="text" id="fOrganizer"></label>
+      <div class="form-row">
+        <label>시작일<input type="date" id="fStartAt" required></label>
+        <label>종료일(선택)<input type="date" id="fEndAt"></label>
+      </div>
+      <label class="checkbox-row"><input type="checkbox" id="fAllDay" checked> 종일 일정</label>
+      <label id="timeField" hidden>시각<input type="time" id="fTime"></label>
+      <label>장소<input type="text" id="fLocation"></label>
+      <label>내용<textarea id="fDescription" rows="3"></textarea></label>
+      <div class="form-actions">
+        <button type="button" class="btn-secondary" id="btnDeleteEvent" hidden>삭제</button>
+        <button type="submit" class="btn-primary">저장</button>
+      </div>
+    </form>
+  </div>
+
+  <!-- 설정 모달 -->
+  <div class="modal-backdrop" id="settingsBackdrop" hidden></div>
+  <div class="modal" id="settingsModal" hidden>
+    <div class="modal-header">
+      <span>설정 — 개인 서버 연결</span>
+      <button type="button" class="icon-btn" id="btnCloseSettings">✕</button>
+    </div>
+    <form id="settingsForm" class="modal-body">
+      <label>서버 주소 (예: http://100.x.x.x:8787)<input type="text" id="sBase" placeholder="http://&lt;tailscale-ip&gt;:8787"></label>
+      <label>토큰<input type="password" id="sToken"></label>
+      <div class="form-actions">
+        <button type="submit" class="btn-primary">저장</button>
+      </div>
+    </form>
+  </div>
+
+  <script src="js/api.js"></script>
+  <script src="js/events-store.js"></script>
+  <script src="js/calendar.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

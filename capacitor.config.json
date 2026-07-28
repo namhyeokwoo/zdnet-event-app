@@ -1,0 +1,8 @@
+{
+  "appId": "com.ska90.zdnetevent",
+  "appName": "ZD 이벤트 캘린더",
+  "webDir": "www",
+  "android": {
+    "backgroundColor": "#0f172a"
+  }
+}

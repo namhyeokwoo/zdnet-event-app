@@ -1,0 +1,415 @@
+{
+  "source_article": {
+    "url": "https://zdnet.co.kr/view/?no=20260726140941",
+    "title": "[ZD브리핑] 삼전·SK하닉 반기 실적 발표…'새 신화' 쓸까",
+    "published_at": "2026-07-26T14:34:00+09:00"
+  },
+  "generated_at": "2026-07-28T13:38:51.564867+00:00",
+  "events": [
+    {
+      "id": "zdb-20260726-01",
+      "title": "SK하이닉스 2분기 실적 발표",
+      "organizer": "SK하이닉스",
+      "start_at": "2026-07-29",
+      "end_at": null,
+      "time": null,
+      "location": null,
+      "description": "SK하이닉스가 29일 2분기 실적을 발표하며, 증권가는 매출 82조원, 영업이익 63조~65조원 수준을 예상하고 있다.",
+      "tags": [
+        "반도체",
+        "SK하이닉스",
+        "실적발표"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20260726140941",
+      "created_at": "2026-07-28T13:38:51.564867+00:00"
+    },
+    {
+      "id": "zdb-20260726-02",
+      "title": "삼성전자 2분기 잠정실적 발표",
+      "organizer": "삼성전자",
+      "start_at": "2026-07-07",
+      "end_at": null,
+      "time": null,
+      "location": null,
+      "description": "삼성전자가 7일 잠정실적 발표에서 매출 133조원, 영업이익 57조 2000억원을 기록했다고 밝혔다.",
+      "tags": [
+        "반도체",
+        "삼성전자",
+        "실적발표"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20260726140941",
+      "created_at": "2026-07-28T13:38:51.564867+00:00"
+    },
+    {
+      "id": "zdb-20260726-03",
+      "title": "한화오션·SKC 2분기 실적 발표",
+      "organizer": "한화오션, SKC",
+      "start_at": "2026-07-27",
+      "end_at": null,
+      "time": null,
+      "location": null,
+      "description": "27일 한화오션과 SKC가 2분기 실적 발표 컨퍼런스콜을 통해 상반기 실적과 하반기 전망을 밝힐 예정이다.",
+      "tags": [
+        "중후장대",
+        "한화오션",
+        "SKC",
+        "실적발표"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20260726140941",
+      "created_at": "2026-07-28T13:38:51.564867+00:00"
+    },
+    {
+      "id": "zdb-20260726-04",
+      "title": "한화시스템·HD현대일렉트릭 2분기 실적 발표",
+      "organizer": "한화시스템, HD현대일렉트릭",
+      "start_at": "2026-07-28",
+      "end_at": null,
+      "time": null,
+      "location": null,
+      "description": "28일 한화시스템과 HD현대일렉트릭이 2분기 실적을 발표한다.",
+      "tags": [
+        "중후장대",
+        "한화시스템",
+        "HD현대일렉트릭",
+        "실적발표"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20260726140941",
+      "created_at": "2026-07-28T13:38:51.564867+00:00"
+    },
+    {
+      "id": "zdb-20260726-05",
+      "title": "한화솔루션·HD건설기계·HD한국조선해양 2분기 실적 발표",
+      "organizer": "한화솔루션, HD건설기계, HD한국조선해양",
+      "start_at": "2026-07-29",
+      "end_at": null,
+      "time": null,
+      "location": null,
+      "description": "29일 한화솔루션, HD건설기계, HD한국조선해양이 2분기 실적을 발표한다.",
+      "tags": [
+        "중후장대",
+        "한화솔루션",
+        "HD건설기계",
+        "HD한국조선해양",
+        "실적발표"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20260726140941",
+      "created_at": "2026-07-28T13:38:51.564867+00:00"
+    },
+    {
+      "id": "zdb-20260726-06",
+      "title": "LG에너지솔루션·삼성SDI·포스코홀딩스·SK이노베이션 2분기 실적 발표",
+      "organizer": "LG에너지솔루션, 삼성SDI, 포스코홀딩스, SK이노베이션",
+      "start_at": "2026-07-30",
+      "end_at": null,
+      "time": null,
+      "location": null,
+      "description": "30일 LG에너지솔루션, 삼성SDI, 포스코홀딩스, SK이노베이션이 2분기 실적을 발표하며 배터리 3사의 적자 폭 축소 여부가 주목된다.",
+      "tags": [
+        "배터리",
+        "LG에너지솔루션",
+        "삼성SDI",
+        "포스코홀딩스",
+        "SK이노베이션",
+        "실적발표"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20260726140941",
+      "created_at": "2026-07-28T13:38:51.564867+00:00"
+    },
+    {
+      "id": "zdb-20260726-07",
+      "title": "에코프로비엠·LG화학·한화에어로스페이스 2분기 실적 발표",
+      "organizer": "에코프로비엠, LG화학, 한화에어로스페이스",
+      "start_at": "2026-07-31",
+      "end_at": null,
+      "time": null,
+      "location": null,
+      "description": "31일 에코프로비엠, LG화학, 한화에어로스페이스가 2분기 실적을 발표하며, 에코프로비엠은 전년 대비 실적 감소가 예상된다.",
+      "tags": [
+        "배터리",
+        "에코프로비엠",
+        "LG화학",
+        "한화에어로스페이스",
+        "실적발표"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20260726140941",
+      "created_at": "2026-07-28T13:38:51.564867+00:00"
+    },
+    {
+      "id": "zdb-20260726-08",
+      "title": "현대차 노조 3차 부분파업",
+      "organizer": "현대자동차 노조",
+      "start_at": "2026-07-29",
+      "end_at": "2026-07-31",
+      "time": null,
+      "location": null,
+      "description": "현대자동차 노조가 29일부터 31일까지 사흘간 주·야간조 각 하루 4시간씩 3차 부분파업을 실시한다.",
+      "tags": [
+        "자동차",
+        "현대자동차",
+        "노사협상"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20260726140941",
+      "created_at": "2026-07-28T13:38:51.564867+00:00"
+    },
+    {
+      "id": "zdb-20260726-09",
+      "title": "현대차 노조 1차 부분파업",
+      "organizer": "현대자동차 노조",
+      "start_at": "2026-07-13",
+      "end_at": "2026-07-15",
+      "time": null,
+      "location": null,
+      "description": "현대자동차 노조가 13일부터 15일까지 하루 2시간씩 1차 부분파업을 진행했다.",
+      "tags": [
+        "자동차",
+        "현대자동차",
+        "노사협상"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20260726140941",
+      "created_at": "2026-07-28T13:38:51.564867+00:00"
+    },
+    {
+      "id": "zdb-20260726-10",
+      "title": "현대차 노조 2차 부분파업",
+      "organizer": "현대자동차 노조",
+      "start_at": "2026-07-20",
+      "end_at": "2026-07-22",
+      "time": null,
+      "location": null,
+      "description": "현대자동차 노조가 20일부터 22일까지 하루 4시간씩 2차 부분파업을 진행했다.",
+      "tags": [
+        "자동차",
+        "현대자동차",
+        "노사협상"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20260726140941",
+      "created_at": "2026-07-28T13:38:51.564867+00:00"
+    },
+    {
+      "id": "zdb-20260726-11",
+      "title": "갤럭시 폴더블8 시리즈 사전예약 시작",
+      "organizer": "이동통신 3사",
+      "start_at": "2026-07-28",
+      "end_at": null,
+      "time": "00:00",
+      "location": null,
+      "description": "이동통신 3사가 갤럭시 폴더블 8세대 스마트폰 3종에 대한 예약판매를 28일 자정부터 시작하며, 개통과 공식 출시는 8월이다.",
+      "tags": [
+        "스마트폰",
+        "삼성전자",
+        "갤럭시Z폴드8"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20260726140941",
+      "created_at": "2026-07-28T13:38:51.564867+00:00"
+    },
+    {
+      "id": "zdb-20260726-12",
+      "title": "오케스트로 테크 컨퍼런스 'OPUS 2026'",
+      "organizer": "오케스트로",
+      "start_at": "2026-07-28",
+      "end_at": null,
+      "time": null,
+      "location": "서울 코엑스",
+      "description": "오케스트로가 서울 코엑스에서 'OPUS 2026' 테크 컨퍼런스를 열고 'AI 인프라 풀스택 솔루션 체계인 오케스트로 4.0을 발표한다.",
+      "tags": [
+        "AI",
+        "클라우드",
+        "오케스트로"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20260726140941",
+      "created_at": "2026-07-28T13:38:51.564867+00:00"
+    },
+    {
+      "id": "zdb-20260726-13",
+      "title": "에이아이빅스랩 'AIBIX 지수 발표' 기자간담회",
+      "organizer": "에이아이빅스랩",
+      "start_at": "2026-07-28",
+      "end_at": null,
+      "time": null,
+      "location": "서울 중구 한국의집 취선관",
+      "description": "에이아이빅스랩이 AIBIX 지수 개발 배경과 GEO 시장 전망을 설명하는 기자간담회를 열고 한국빅데이터학회·플립비와 업무협약을 체결한다.",
+      "tags": [
+        "AI",
+        "생성형AI",
+        "에이아이빅스랩"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20260726140941",
+      "created_at": "2026-07-28T13:38:51.564867+00:00"
+    },
+    {
+      "id": "zdb-20260726-14",
+      "title": "포스코DX 'AI 네이티브 컴퍼니' 미디어데이",
+      "organizer": "포스코DX",
+      "start_at": "2026-07-29",
+      "end_at": null,
+      "time": null,
+      "location": "롯데호텔서울",
+      "description": "포스코DX가 롯데호텔서울에서 미디어데이를 열고 AI 네이티브 기업으로의 전환 전략과 피지컬 AI, 로봇 전환(RX) 성과를 공개한다.",
+      "tags": [
+        "AI",
+        "제조",
+        "포스코DX"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20260726140941",
+      "created_at": "2026-07-28T13:38:51.564867+00:00"
+    },
+    {
+      "id": "zdb-20260726-15",
+      "title": "현대오토에버 2분기 실적 발표",
+      "organizer": "현대오토에버",
+      "start_at": "2026-07-29",
+      "end_at": null,
+      "time": null,
+      "location": null,
+      "description": "현대오토에버가 29일 2분기 실적을 발표하며 매출 1조 1462억원, 영업이익 702억원이 예상된다.",
+      "tags": [
+        "IT서비스",
+        "현대오토에버",
+        "실적발표"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20260726140941",
+      "created_at": "2026-07-28T13:38:51.564867+00:00"
+    },
+    {
+      "id": "zdb-20260726-16",
+      "title": "삼성SDS 2분기 실적 발표",
+      "organizer": "삼성SDS",
+      "start_at": "2026-07-30",
+      "end_at": null,
+      "time": null,
+      "location": null,
+      "description": "삼성SDS가 30일 2분기 실적을 발표하며 매출 3조 6560억원, 영업이익 2368억원이 예상된다.",
+      "tags": [
+        "IT서비스",
+        "삼성SDS",
+        "실적발표"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20260726140941",
+      "created_at": "2026-07-28T13:38:51.564867+00:00"
+    },
+    {
+      "id": "zdb-20260726-17",
+      "title": "LG CNS 2분기 실적 발표",
+      "organizer": "LG CNS",
+      "start_at": "2026-07-31",
+      "end_at": null,
+      "time": null,
+      "location": null,
+      "description": "LG CNS가 31일 2분기 실적을 발표하며 매출 1조 5640억원, 영업이익 1409억원으로 개선된 성과가 예상된다.",
+      "tags": [
+        "IT서비스",
+        "LG CNS",
+        "실적발표"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20260726140941",
+      "created_at": "2026-07-28T13:38:51.564867+00:00"
+    },
+    {
+      "id": "zdb-20260726-18",
+      "title": "크래프톤 2분기 실적 발표",
+      "organizer": "크래프톤",
+      "start_at": "2026-07-29",
+      "end_at": null,
+      "time": null,
+      "location": null,
+      "description": "크래프톤이 29일 2분기 실적을 발표하며 매출 약 1조2927억원, 영업이익 4337억원으로 전년 대비 큰 폭 성장이 예상된다.",
+      "tags": [
+        "게임",
+        "크래프톤",
+        "실적발표"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20260726140941",
+      "created_at": "2026-07-28T13:38:51.564867+00:00"
+    },
+    {
+      "id": "zdb-20260726-19",
+      "title": "보건의료노조 인요한 회장 인준 반대 기자회견",
+      "organizer": "보건의료노조",
+      "start_at": "2026-07-27",
+      "end_at": null,
+      "time": "10:30",
+      "location": "국회 앞",
+      "description": "보건의료노조가 국회 앞에서 인요한 전 의원의 대한적십자사 회장 취업 제한 의결을 촉구하는 기자회견을 개최한다.",
+      "tags": [
+        "보건의료",
+        "보건의료노조",
+        "대한적십자사"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20260726140941",
+      "created_at": "2026-07-28T13:38:51.564867+00:00"
+    },
+    {
+      "id": "zdb-20260726-20",
+      "title": "보건의료노조 국회 앞 1인 시위 개시",
+      "organizer": "보건의료노조",
+      "start_at": "2026-07-20",
+      "end_at": null,
+      "time": null,
+      "location": "국회 앞",
+      "description": "보건의료노조가 인요한 전 의원의 대한적십자사 회장 인준에 반대하며 7월20일부터 국회 앞에서 1인 시위를 전개하고 있다.",
+      "tags": [
+        "보건의료",
+        "보건의료노조"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20260726140941",
+      "created_at": "2026-07-28T13:38:51.564867+00:00"
+    },
+    {
+      "id": "zdb-20260726-21",
+      "title": "여성 희귀 간질환 PBC 치료 사각지대 해소 정책토론회",
+      "organizer": "국회도서관",
+      "start_at": "2026-07-29",
+      "end_at": null,
+      "time": "14:00",
+      "location": "국회도서관 소강당",
+      "description": "원발성 담즙성 담관염(PBC) 환자의 진단·치료 어려움과 건강보험 보장성 개선 방안을 논의하는 정책토론회가 열린다.",
+      "tags": [
+        "보건의료",
+        "희귀질환",
+        "정책토론회"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20260726140941",
+      "created_at": "2026-07-28T13:38:51.564867+00:00"
+    },
+    {
+      "id": "zdb-20260726-22",
+      "title": "자율주행 상용화 정책토론회",
+      "organizer": "국회",
+      "start_at": "2026-07-28",
+      "end_at": null,
+      "time": "10:00",
+      "location": "국회의원회관 제8간담회의실",
+      "description": "'피지컬 AI 시대, 자율주행은 어떻게 일상이 되는가?'를 주제로 정책토론회가 열려 자율주행 서비스 상용화를 위한 제도·인프라 방안이 논의된다.",
+      "tags": [
+        "자율주행",
+        "AI",
+        "카카오모빌리티",
+        "정책토론회"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20260726140941",
+      "created_at": "2026-07-28T13:38:51.564867+00:00"
+    }
+  ]
+}

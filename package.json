@@ -1,0 +1,15 @@
+{
+  "name": "zdnet-event-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "cap copy android && cap sync android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^8.4.1",
+    "@capacitor/core": "^8.4.1"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^8.4.1"
+  }
+}
