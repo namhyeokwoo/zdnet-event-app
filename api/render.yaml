@@ -1,0 +1,17 @@
+services:
+  - name: zdnet-event-api
+    type: web
+    runtime: python
+    plan: free
+    rootDir: api
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn app:app --bind 0.0.0.0:$PORT --workers 1 --timeout 30
+    envVars:
+      - key: HUB_API_TOKEN
+        sync: false
+      - key: DATABASE_URL
+        sync: false
+      - key: ALLOWED_ORIGINS
+        value: "https://namhyeokwoo.github.io,https://localhost"
+      - key: PYTHON_VERSION
+        value: "3.12.4"
