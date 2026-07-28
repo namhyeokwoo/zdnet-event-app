@@ -7,3 +7,4 @@ keystore.properties
 __pycache__/
 *.pyc
 .env
+.neon
