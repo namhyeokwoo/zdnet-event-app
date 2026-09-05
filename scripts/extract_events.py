@@ -99,7 +99,7 @@ def extract_events(article: dict) -> list[dict]:
     response = client.messages.create(
         model=MODEL,
         max_tokens=8000,
-        system=SYSTEM_PROMPT,
+        system=[{"type": "text", "text": SYSTEM_PROMPT, "cache_control": {"type": "ephemeral"}}],
         output_config={"format": {"type": "json_schema", "schema": EVENTS_SCHEMA}},
         messages=[{"role": "user", "content": user_prompt}],
     )
