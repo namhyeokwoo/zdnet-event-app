@@ -1,903 +1,11 @@
 {
   "source_article": {
-    "url": "https://zdnet.co.kr/view/?no=20260802142528",
-    "title": "[ZD브리핑] '애플 맞대결' 삼성 갤Z8 예약판매 물량 4일 개통...네이버·카카오 2Q 실적 발표",
-    "published_at": "2026-08-02T14:29:00+09:00"
+    "url": "https://zdnet.co.kr/view/?no=20260927121709",
+    "title": "[ZD브리핑] 마이크론 최대실적 예고...개보위원장·통신3사 CEO 첫회동",
+    "published_at": "2026-09-27T12:17:00+09:00"
   },
-  "generated_at": "2026-08-05T05:45:48.678545+00:00",
+  "generated_at": "2026-09-27T15:44:26.266538+00:00",
   "events": [
-    {
-      "id": "zdb-20250810-03",
-      "title": "베트남 또 럼 서기장 국빈만찬",
-      "organizer": "대통령실",
-      "start_at": "2025-08-11",
-      "end_at": null,
-      "time": null,
-      "location": null,
-      "description": "이재명 대통령 주재로 베트남 서열 1위 또 럼 공산당 서기장을 위한 국빈만찬이 열리며 국내 주요 대기업 총수와 경제단체장들이 참석할 예정이다.",
-      "tags": [
-        "재계",
-        "외교",
-        "삼성전자",
-        "현대자동차",
-        "LG",
-        "롯데"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250810110855",
-      "created_at": "2026-08-05T05:11:01.116728+00:00"
-    },
-    {
-      "id": "zdb-20250810-02",
-      "title": "유료방송 위기 진단 정책 세미나",
-      "organizer": "최형두 의원·김우영 의원",
-      "start_at": "2025-08-12",
-      "end_at": null,
-      "time": null,
-      "location": "국회",
-      "description": "국민의힘 최형두 의원과 더불어민주당 김우영 의원이 유료방송 위기를 진단하는 정책 세미나를 국회에서 공동 개최한다.",
-      "tags": [
-        "유료방송",
-        "정책세미나",
-        "국회"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250810110855",
-      "created_at": "2026-08-05T05:11:01.116728+00:00"
-    },
-    {
-      "id": "zdb-20250810-05",
-      "title": "2025 OCP 코리아 테크 데이",
-      "organizer": "오픈 컴퓨트 프로젝트(OCP) 재단",
-      "start_at": "2025-08-12",
-      "end_at": null,
-      "time": null,
-      "location": "서울 코엑스",
-      "description": "OCP 재단이 개방형 컴퓨팅 기술을 소개하는 '2025 OCP 코리아 테크 데이'를 개최하며 AI, 데이터센터, 반도체, 클라우드 관련 세션과 전시가 마련된다.",
-      "tags": [
-        "클라우드",
-        "데이터센터",
-        "반도체",
-        "AI",
-        "OCP"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250810110855",
-      "created_at": "2026-08-05T05:11:01.116728+00:00"
-    },
-    {
-      "id": "zdb-20250810-06",
-      "title": "레드햇 RHEL 10 간담회",
-      "organizer": "레드햇",
-      "start_at": "2025-08-12",
-      "end_at": null,
-      "time": null,
-      "location": null,
-      "description": "레드햇이 '엔터프라이즈 리눅스의 미래를 말하다'를 주제로 RHEL 10의 주요 기능과 기술 방향성을 소개하는 간담회를 진행한다.",
-      "tags": [
-        "리눅스",
-        "클라우드",
-        "레드햇"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250810110855",
-      "created_at": "2026-08-05T05:11:01.116728+00:00"
-    },
-    {
-      "id": "zdb-20250810-07",
-      "title": "한국기자협회 창립 61주년 기념행사",
-      "organizer": "한국기자협회",
-      "start_at": "2025-08-12",
-      "end_at": null,
-      "time": null,
-      "location": "중구 프레스센터",
-      "description": "한국기자협회가 창립 61주년을 맞아 기념행사를 열고 언론 자유 발전에 기여한 공로자들에게 감사패를 수여한다.",
-      "tags": [
-        "언론",
-        "한국기자협회"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250810110855",
-      "created_at": "2026-08-05T05:11:01.116728+00:00"
-    },
-    {
-      "id": "zdb-20250810-08",
-      "title": "엔씨소프트·NHN·컴투스 2분기 실적 발표",
-      "organizer": "엔씨소프트, NHN, 컴투스",
-      "start_at": "2025-08-12",
-      "end_at": null,
-      "time": null,
-      "location": null,
-      "description": "엔씨소프트, NHN, 컴투스 등 주요 게임사가 2025년 2분기 실적을 발표한다.",
-      "tags": [
-        "게임",
-        "엔씨소프트",
-        "NHN",
-        "컴투스"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250810110855",
-      "created_at": "2026-08-05T05:11:01.116728+00:00"
-    },
-    {
-      "id": "zdb-20250810-12",
-      "title": "세브란스병원 주4일제 국회 정책세미나",
-      "organizer": "이학영 등 더불어민주당 의원·세브란스병원노동조합·주4일제 네트워크",
-      "start_at": "2025-08-12",
-      "end_at": null,
-      "time": null,
-      "location": "국회의원회관 제2소회의실",
-      "description": "세브란스병원 주4일제 시범사업 2년 결과와 함의를 논의하는 국회 정책세미나가 개최되며 노동시간 단축과 일·삶 균형 방안이 다뤄진다.",
-      "tags": [
-        "의료",
-        "노동",
-        "세브란스병원"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250810110855",
-      "created_at": "2026-08-05T05:11:01.116728+00:00"
-    },
-    {
-      "id": "zdb-20250810-01",
-      "title": "국정기획위원회 대국민보고",
-      "organizer": "국정기획위원회",
-      "start_at": "2025-08-13",
-      "end_at": null,
-      "time": null,
-      "location": null,
-      "description": "국정기획위원회가 위원회 활동을 마치고 이재명 정부의 국정과제와 정부조직개편 방향 등을 담은 대국민보고를 진행한다.",
-      "tags": [
-        "공공정책",
-        "정부조직개편",
-        "방송통신위원회"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250810110855",
-      "created_at": "2026-08-05T05:11:01.116728+00:00"
-    },
-    {
-      "id": "zdb-20250810-09",
-      "title": "넥슨·펄어비스 2분기 실적 발표",
-      "organizer": "넥슨, 펄어비스",
-      "start_at": "2025-08-13",
-      "end_at": null,
-      "time": null,
-      "location": null,
-      "description": "넥슨과 펄어비스가 2025년 2분기 실적을 발표하며 인건비 증가와 신작 지연에 따른 하반기 실적 개선 여부가 주목된다.",
-      "tags": [
-        "게임",
-        "넥슨",
-        "펄어비스"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250810110855",
-      "created_at": "2026-08-05T05:11:01.116728+00:00"
-    },
-    {
-      "id": "zdb-20250810-11",
-      "title": "'던전스토커즈' 얼리액세스 출시",
-      "organizer": "원유니버스",
-      "start_at": "2025-08-13",
-      "end_at": null,
-      "time": null,
-      "location": null,
-      "description": "원유니버스가 던전 탐험과 탈출을 강조한 PC 게임 '던전스토커즈'의 얼리액세스 버전을 출시한다.",
-      "tags": [
-        "게임",
-        "원유니버스"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250810110855",
-      "created_at": "2026-08-05T05:11:01.116728+00:00"
-    },
-    {
-      "id": "zdb-20250810-04",
-      "title": "로보티즈 피지컬AI 워크샵",
-      "organizer": "로보티즈",
-      "start_at": "2025-08-14",
-      "end_at": null,
-      "time": null,
-      "location": "로보티즈 캠퍼스",
-      "description": "로보티즈가 피지컬AI 워크샵을 개최하며 삼성전자 연구원 등 업계 관계자들이 참여해 관련 소식을 전한다.",
-      "tags": [
-        "로봇",
-        "AI",
-        "로보티즈",
-        "삼성전자"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250810110855",
-      "created_at": "2026-08-05T05:11:01.116728+00:00"
-    },
-    {
-      "id": "zdb-20250810-10",
-      "title": "부산인디커넥트2025(BIC2025)",
-      "organizer": null,
-      "start_at": "2025-08-15",
-      "end_at": "2025-08-17",
-      "time": null,
-      "location": "부산 벡스코 제1전시장",
-      "description": "인디 게임 행사인 부산인디커넥트2025(BIC2025)가 부산 벡스코 제1전시장에서 개최된다.",
-      "tags": [
-        "게임",
-        "인디게임",
-        "BIC2025"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250810110855",
-      "created_at": "2026-08-05T05:11:01.116728+00:00"
-    },
-    {
-      "id": "zdb-20250817-01",
-      "title": "SK그룹 이천포럼 개최",
-      "organizer": "SK그룹",
-      "start_at": "2025-08-18",
-      "end_at": "2025-08-20",
-      "time": null,
-      "location": "서울 광진구 워커힐 호텔",
-      "description": "SK그룹의 연례 행사인 이천포럼이 2박3일간 열리며 최태원 회장과 계열사 CEO들이 참석해 AI 성장 전략을 논의한다.",
-      "tags": [
-        "AI",
-        "SK그룹",
-        "이천포럼"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250817132727",
-      "created_at": "2026-08-05T05:11:40.318396+00:00"
-    },
-    {
-      "id": "zdb-20250817-02",
-      "title": "위로보틱스 휴머노이드 로봇 '알렉스' 정식 공개",
-      "organizer": "위로보틱스",
-      "start_at": "2025-08-18",
-      "end_at": null,
-      "time": null,
-      "location": null,
-      "description": "웨어러블 로봇 업체 위로보틱스가 유연한 손가락을 갖춘 휴머노이드 로봇 '알렉스'를 정식 공개한다.",
-      "tags": [
-        "로봇",
-        "휴머노이드",
-        "위로보틱스"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250817132727",
-      "created_at": "2026-08-05T05:11:40.318396+00:00"
-    },
-    {
-      "id": "zdb-20250817-06",
-      "title": "국민의힘 AI G3 정책토론회",
-      "organizer": "국민의힘",
-      "start_at": "2025-08-18",
-      "end_at": null,
-      "time": null,
-      "location": "국회의원회관",
-      "description": "국민의힘이 소버린·버티컬·피지컬 AI를 주제로 대한민국의 AI G3 도약 전략과 비전을 논의하는 정책토론회를 연다.",
-      "tags": [
-        "AI",
-        "공공정책",
-        "국민의힘"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250817132727",
-      "created_at": "2026-08-05T05:11:40.318396+00:00"
-    },
-    {
-      "id": "zdb-20250817-05",
-      "title": "AI G3 도약을 위한 6G·AI 네트워크 정책토론회",
-      "organizer": "한국통신학회",
-      "start_at": "2025-08-19",
-      "end_at": null,
-      "time": null,
-      "location": "국회",
-      "description": "한국통신학회가 국회에서 AI 강국(G3) 도약을 위한 6G 및 AI 네트워크 정책 방향을 논의하는 토론회를 개최한다.",
-      "tags": [
-        "AI",
-        "6G",
-        "한국통신학회"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250817132727",
-      "created_at": "2026-08-05T05:11:40.318396+00:00"
-    },
-    {
-      "id": "zdb-20250817-08",
-      "title": "게임스컴 2025 개최",
-      "organizer": null,
-      "start_at": "2025-08-19",
-      "end_at": "2025-08-22",
-      "time": null,
-      "location": "독일 쾰른",
-      "description": "독일 쾰른에서 열리는 게임스컴 2025에 크래프톤, 카카오게임즈, 엔씨소프트, 펄어비스, 위메이드맥스 등이 참가해 신작을 공개한다.",
-      "tags": [
-        "게임",
-        "크래프톤",
-        "카카오게임즈",
-        "엔씨소프트",
-        "펄어비스",
-        "위메이드맥스"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250817132727",
-      "created_at": "2026-08-05T05:11:40.318396+00:00"
-    },
-    {
-      "id": "zdb-20250817-11",
-      "title": "나이벡 2025년 상반기 실적발표회",
-      "organizer": "나이벡",
-      "start_at": "2025-08-19",
-      "end_at": null,
-      "time": null,
-      "location": null,
-      "description": "펩타이드 융합 바이오 기업 나이벡이 상반기 실적과 핵심 파이프라인 기술이전 진행상황 등을 발표한다.",
-      "tags": [
-        "바이오",
-        "제약",
-        "나이벡"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250817132727",
-      "created_at": "2026-08-05T05:11:40.318396+00:00"
-    },
-    {
-      "id": "zdb-20250817-10",
-      "title": "이식편대숙주질환 치료환경 개선 국회 정책토론회",
-      "organizer": "대한조혈모세포이식학회, 한국혈액암협회",
-      "start_at": "2025-08-20",
-      "end_at": null,
-      "time": "14:00",
-      "location": "국회의원회관 제3간담회의실",
-      "description": "더불어민주당 서미화 의원 주최로 이식편대숙주질환 등 중증희귀 합병증 치료환경 개선을 위한 정책토론회가 열린다.",
-      "tags": [
-        "헬스케어",
-        "혈액암",
-        "국회"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250817132727",
-      "created_at": "2026-08-05T05:11:40.318396+00:00"
-    },
-    {
-      "id": "zdb-20250817-04",
-      "title": "방송 3법 잔여 법안 및 쟁점 법안 국회 본회의 상정",
-      "organizer": "국회",
-      "start_at": "2025-08-21",
-      "end_at": null,
-      "time": null,
-      "location": "국회",
-      "description": "방문진법과 EBS법 등 방송 3법 잔여 법안이 본회의에 오르고 이어 노란봉투법, 2차 상법 개정안 등 쟁점 법안이 처리될 예정이다.",
-      "tags": [
-        "방송법",
-        "국회",
-        "입법"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250817132727",
-      "created_at": "2026-08-05T05:11:40.318396+00:00"
-    },
-    {
-      "id": "zdb-20250817-07",
-      "title": "IBM 글로벌 보안 트렌드 간담회",
-      "organizer": "IBM",
-      "start_at": "2025-08-21",
-      "end_at": null,
-      "time": null,
-      "location": "여의도 IBM 사옥",
-      "description": "IBM이 '2025 데이터 유출 비용 연구 보고서'를 기반으로 AI 기반 공격과 랜섬웨어 대응 전략을 공유하는 간담회를 개최한다.",
-      "tags": [
-        "보안",
-        "AI",
-        "IBM"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250817132727",
-      "created_at": "2026-08-05T05:11:40.318396+00:00"
-    },
-    {
-      "id": "zdb-20250817-09",
-      "title": "아이지에이웍스 모바일 게임 시장 세미나",
-      "organizer": "아이지에이웍스",
-      "start_at": "2025-08-22",
-      "end_at": null,
-      "time": null,
-      "location": "강남 마루180 지하1층 이벤트홀",
-      "description": "아이지에이웍스가 '모바일 게임 시장의 기회와 생존 전략'을 주제로 세미나를 개최한다.",
-      "tags": [
-        "게임",
-        "모바일",
-        "아이지에이웍스"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250817132727",
-      "created_at": "2026-08-05T05:11:40.318396+00:00"
-    },
-    {
-      "id": "zdb-20250817-03",
-      "title": "한·일 정상회담",
-      "organizer": "대통령실",
-      "start_at": "2025-08-23",
-      "end_at": "2025-08-24",
-      "time": null,
-      "location": "일본",
-      "description": "이재명 대통령이 방미에 앞서 일본을 방문해 이시바 시게루 총리와 한일 정상회담을 갖고 한미일 공조 및 역내 협력을 논의한다.",
-      "tags": [
-        "외교",
-        "한일관계",
-        "대통령실"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250817132727",
-      "created_at": "2026-08-05T05:11:40.318396+00:00"
-    },
-    {
-      "id": "zdb-20250824-01",
-      "title": "한미 정상회담",
-      "organizer": "대한민국 정부, 미국 백악관",
-      "start_at": "2025-08-25",
-      "end_at": null,
-      "time": null,
-      "location": "미국 백악관",
-      "description": "한미 정상회담이 백악관에서 열리며 최태원, 이재용, 정의선, 구광모 등 국내 대기업 총수가 동석해 대미 반도체 투자 확대 여부가 주목된다.",
-      "tags": [
-        "반도체",
-        "외교",
-        "삼성전자",
-        "SK하이닉스",
-        "현대차그룹",
-        "LG그룹"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250824105912",
-      "created_at": "2026-08-05T05:24:38.926008+00:00"
-    },
-    {
-      "id": "zdb-20250824-02",
-      "title": "국민의힘 2차 상법 개정안 필리버스터",
-      "organizer": "국민의힘",
-      "start_at": "2025-08-25",
-      "end_at": null,
-      "time": null,
-      "location": "국회",
-      "description": "더불어민주당의 2차 상법 개정안 처리 강행에 맞서 국민의힘이 25일까지 무제한 토론(필리버스터)을 진행할 예정이다.",
-      "tags": [
-        "국회",
-        "입법",
-        "상법개정안"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250824105912",
-      "created_at": "2026-08-05T05:24:38.926008+00:00"
-    },
-    {
-      "id": "zdb-20250824-05",
-      "title": "국회 예결위 결산심사소위 및 종합정책질의",
-      "organizer": "국회 예산결산특별위원회",
-      "start_at": "2025-08-25",
-      "end_at": "2025-08-26",
-      "time": null,
-      "location": "국회",
-      "description": "예결위가 결산심사소위를 구성해 2024 회계연도 결산과 예비비지출 승인 건을 논의하고 26일까지 종합정책질의를 진행한다.",
-      "tags": [
-        "국회",
-        "예산결산",
-        "공공정책"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250824105912",
-      "created_at": "2026-08-05T05:24:38.926008+00:00"
-    },
-    {
-      "id": "zdb-20250824-11",
-      "title": "LG CNS AX 미디어데이",
-      "organizer": "LG CNS",
-      "start_at": "2025-08-25",
-      "end_at": null,
-      "time": null,
-      "location": "LG사이언스파크 ISC동 컨버전스홀",
-      "description": "LG CNS가 AX 전략과 에이전틱 AI 신규 플랫폼·서비스를 발표하는 'AX 미디어데이'를 개최한다.",
-      "tags": [
-        "AI",
-        "LG CNS"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250824105912",
-      "created_at": "2026-08-05T05:24:38.926008+00:00"
-    },
-    {
-      "id": "zdb-20250824-18",
-      "title": "언리얼 페스트 서울 2025",
-      "organizer": "에픽게임즈 코리아",
-      "start_at": "2025-08-25",
-      "end_at": "2025-08-26",
-      "time": null,
-      "location": "삼성동 코엑스 그랜드볼룸",
-      "description": "에픽게임즈 코리아가 언리얼 엔진과 에픽 에코시스템의 최신 기술을 공유하는 '언리얼 페스트 서울 2025'를 이틀간 개최하며 38개 세션이 진행된다.",
-      "tags": [
-        "게임",
-        "언리얼엔진",
-        "에픽게임즈"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250824105912",
-      "created_at": "2026-08-05T05:24:38.926008+00:00"
-    },
-    {
-      "id": "zdb-20250824-07",
-      "title": "과방위 전체회의 법안 상정",
-      "organizer": "국회 과학기술정보방송통신위원회",
-      "start_at": "2025-08-26",
-      "end_at": null,
-      "time": null,
-      "location": "국회",
-      "description": "과방위가 전체회의를 열어 각종 법안을 상정하는 절차를 진행한다.",
-      "tags": [
-        "국회",
-        "입법"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250824105912",
-      "created_at": "2026-08-05T05:24:38.926008+00:00"
-    },
-    {
-      "id": "zdb-20250824-09",
-      "title": "콘텐츠 산업 활성화와 문화강국 실현 세미나",
-      "organizer": "한국방송학회",
-      "start_at": "2025-08-26",
-      "end_at": null,
-      "time": "10:00",
-      "location": "한국프레스센터",
-      "description": "한국방송학회가 콘텐츠 산업 활성화를 통한 문화강국 실현을 주제로 세미나를 열어 정책 과제를 논의한다.",
-      "tags": [
-        "콘텐츠",
-        "방송",
-        "공공정책"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250824105912",
-      "created_at": "2026-08-05T05:24:38.926008+00:00"
-    },
-    {
-      "id": "zdb-20250824-12",
-      "title": "벡터 테크데이 2025",
-      "organizer": "벡터코리아",
-      "start_at": "2025-08-26",
-      "end_at": null,
-      "time": null,
-      "location": "여의도 콘래드 서울 호텔",
-      "description": "벡터코리아가 '액셀러레이트 SDV: 차량 개발 및 테스트 전략'을 주제로 미래차 개발 전략과 솔루션을 공유하는 행사를 연다.",
-      "tags": [
-        "모빌리티",
-        "자동차SW",
-        "벡터코리아"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250824105912",
-      "created_at": "2026-08-05T05:24:38.926008+00:00"
-    },
-    {
-      "id": "zdb-20250824-19",
-      "title": "2025 게임과학포럼",
-      "organizer": "게임과학연구원, 구글코리아",
-      "start_at": "2025-08-26",
-      "end_at": null,
-      "time": null,
-      "location": null,
-      "description": "게임과학연구원과 구글코리아가 'AI가 바꾸는 창작, 미래가 묻는 균형'을 주제로 2025 게임과학포럼을 개최한다.",
-      "tags": [
-        "게임",
-        "AI",
-        "구글코리아"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250824105912",
-      "created_at": "2026-08-05T05:24:38.926008+00:00"
-    },
-    {
-      "id": "zdb-20250824-03",
-      "title": "APEC 에너지장관회의",
-      "organizer": "산업통상자원부",
-      "start_at": "2025-08-27",
-      "end_at": "2025-08-28",
-      "time": null,
-      "location": "부산",
-      "description": "아시아태평양경제협력체(APEC) 에너지장관회의가 부산에서 이틀간 열려 전력망 인프라, 에너지 안보, AI 기반 에너지 혁신 등이 논의되며 마이크로소프트·구글·엔비디아 임원이 참석한다.",
-      "tags": [
-        "에너지",
-        "AI",
-        "공공정책",
-        "마이크로소프트",
-        "구글",
-        "엔비디아"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250824105912",
-      "created_at": "2026-08-05T05:24:38.926008+00:00"
-    },
-    {
-      "id": "zdb-20250824-04",
-      "title": "제18회 폐기물·자원순환산업전(리테크 2025)",
-      "organizer": null,
-      "start_at": "2025-08-27",
-      "end_at": "2025-08-29",
-      "time": null,
-      "location": "일산 킨텍스 제2전시장 10홀",
-      "description": "국내 유일의 폐기물 관리·자원 재활용 전문 전시회인 '리테크 2025'가 킨텍스에서 개최되며 탄소중립 및 ESG 기반 리사이클 기술이 소개된다.",
-      "tags": [
-        "ESG",
-        "자원순환",
-        "전시회"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250824105912",
-      "created_at": "2026-08-05T05:24:38.926008+00:00"
-    },
-    {
-      "id": "zdb-20250824-06",
-      "title": "과방위 예산소위(과기정통부·방통위 결산 심사)",
-      "organizer": "국회 과학기술정보방송통신위원회",
-      "start_at": "2025-08-27",
-      "end_at": null,
-      "time": null,
-      "location": "국회",
-      "description": "과방위 예산소위에서 과기정통부와 방통위의 회계연도 결산, 예비비지출 승인안, KBS·EBS 결산 승인안을 심사한다.",
-      "tags": [
-        "국회",
-        "공공SW",
-        "방송통신"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250824105912",
-      "created_at": "2026-08-05T05:24:38.926008+00:00"
-    },
-    {
-      "id": "zdb-20250824-08",
-      "title": "과방위 ICT 법안심사 소위",
-      "organizer": "국회 과학기술정보방송통신위원회",
-      "start_at": "2025-08-27",
-      "end_at": null,
-      "time": null,
-      "location": "국회",
-      "description": "본회의 산회 이후 과방위가 ICT 관련 법안심사를 위한 소위원회를 개최한다.",
-      "tags": [
-        "국회",
-        "ICT",
-        "입법"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250824105912",
-      "created_at": "2026-08-05T05:24:38.926008+00:00"
-    },
-    {
-      "id": "zdb-20250824-13",
-      "title": "태블로 데이터 페스트 코리아 2025",
-      "organizer": "태블로",
-      "start_at": "2025-08-27",
-      "end_at": null,
-      "time": null,
-      "location": "그랜드 인터컨티넨털 서울 파르나스",
-      "description": "태블로가 'AI 시대 가장 적합한 데이터 분석'을 주제로 데이터 기반 의사결정의 진화를 조망하는 행사를 개최한다.",
-      "tags": [
-        "데이터분석",
-        "AI",
-        "태블로"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250824105912",
-      "created_at": "2026-08-05T05:24:38.926008+00:00"
-    },
-    {
-      "id": "zdb-20250824-14",
-      "title": "AWS 게임 및 미디어 고객 컨퍼런스",
-      "organizer": "아마존웹서비스(AWS)",
-      "start_at": "2025-08-27",
-      "end_at": null,
-      "time": null,
-      "location": "서울 강남구 조선팰리스 호텔",
-      "description": "AWS가 게임·미디어 산업의 클라우드 전략과 최신 트렌드를 소개하며 GS네오텍·메가존클라우드 등 파트너사 사례를 발표한다.",
-      "tags": [
-        "클라우드",
-        "게임",
-        "AWS"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250824105912",
-      "created_at": "2026-08-05T05:24:38.926008+00:00"
-    },
-    {
-      "id": "zdb-20250824-21",
-      "title": "국민이 원하는 진짜 의료혁신 토론회",
-      "organizer": "국민의힘 정책위원회, 최보윤 국회의원",
-      "start_at": "2025-08-27",
-      "end_at": null,
-      "time": "14:00",
-      "location": "국회의원회관 제9간담회의실",
-      "description": "AI와 의료데이터를 기반으로 한 미래 의료 혁신과 비대면진료 역할을 논의하는 토론회가 국회에서 열린다.",
-      "tags": [
-        "AI",
-        "비대면진료",
-        "공공정책"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250824105912",
-      "created_at": "2026-08-05T05:24:38.926008+00:00"
-    },
-    {
-      "id": "zdb-20250824-22",
-      "title": "개인정보보호위원회 전체회의(SKT 처벌 수위 결정)",
-      "organizer": "개인정보보호위원회",
-      "start_at": "2025-08-27",
-      "end_at": null,
-      "time": null,
-      "location": null,
-      "description": "개인정보보호위원회가 전체회의를 열어 SKT 침해사고 관련 처벌 수위와 과징금 규모를 결정할 예정이다.",
-      "tags": [
-        "개인정보보호",
-        "SKT",
-        "보안"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250824105912",
-      "created_at": "2026-08-05T05:24:38.926008+00:00"
-    },
-    {
-      "id": "zdb-20250824-23",
-      "title": "SGA솔루션즈 Full-Stack 보안전략 소개",
-      "organizer": "SGA솔루션즈",
-      "start_at": "2025-08-27",
-      "end_at": null,
-      "time": null,
-      "location": null,
-      "description": "SGA솔루션즈가 자회사 SGN 합병에 따른 'Full-Stack 보안전략'과 제로 트러스트 전략을 소개한다.",
-      "tags": [
-        "보안",
-        "제로트러스트",
-        "SGA솔루션즈"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250824105912",
-      "created_at": "2026-08-05T05:24:38.926008+00:00"
-    },
-    {
-      "id": "zdb-20250824-10",
-      "title": "2025 광주 에이스페어",
-      "organizer": null,
-      "start_at": "2025-08-28",
-      "end_at": "2025-08-31",
-      "time": null,
-      "location": "광주 김대중컨벤션센터",
-      "description": "국내 최대 콘텐츠 전문 전시회인 '2025 광주 에이스페어'가 20주년을 맞아 400개 기업, 507개 부스 규모로 개최된다.",
-      "tags": [
-        "콘텐츠",
-        "전시회"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250824105912",
-      "created_at": "2026-08-05T05:24:38.926008+00:00"
-    },
-    {
-      "id": "zdb-20250824-15",
-      "title": "버티브코리아 미디어 라운드테이블",
-      "organizer": "버티브코리아",
-      "start_at": "2025-08-28",
-      "end_at": null,
-      "time": null,
-      "location": "서울 강남구 미래에셋타워",
-      "description": "버티브코리아가 비전과 사업 방향성을 소개하고 '버티브 360AI'를 시연하며 국내 기업들과 데이터 혁신 전략을 공유한다.",
-      "tags": [
-        "AI",
-        "데이터센터",
-        "버티브코리아"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250824105912",
-      "created_at": "2026-08-05T05:24:38.926008+00:00"
-    },
-    {
-      "id": "zdb-20250824-16",
-      "title": "플리토 퍼스트 미디어 인사이트 데이",
-      "organizer": "플리토",
-      "start_at": "2025-08-28",
-      "end_at": null,
-      "time": null,
-      "location": "서울 강남 그랜드 인터컨티넨탈 파르나스",
-      "description": "플리토가 창립 13주년을 맞아 새로운 비전 '플리토 2.0'과 초개인화 신기술 데모, AI 서비스 전략을 공개한다.",
-      "tags": [
-        "AI",
-        "번역",
-        "플리토"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250824105912",
-      "created_at": "2026-08-05T05:24:38.926008+00:00"
-    },
-    {
-      "id": "zdb-20250824-17",
-      "title": "AI 네이티브 엔터프라이즈 포럼 2025",
-      "organizer": "트러스트커넥터, 법무법인 디엘지",
-      "start_at": "2025-08-29",
-      "end_at": null,
-      "time": null,
-      "location": "드림플러스 강남 이벤트홀",
-      "description": "'기술을 소비하는 기업에서 AI를 설계하는 기업으로'를 주제로 에이전틱 AI 시대의 기업 혁신과 컴플라이언스를 논의하는 포럼이 열린다.",
-      "tags": [
-        "AI",
-        "엔터프라이즈",
-        "트러스트커넥터"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250824105912",
-      "created_at": "2026-08-05T05:24:38.926008+00:00"
-    },
-    {
-      "id": "zdb-20250824-20",
-      "title": "김범수 카카오 창업자 SM엔터 시세조종 의혹 결심공판",
-      "organizer": "서울남부지법",
-      "start_at": "2025-08-29",
-      "end_at": null,
-      "time": "14:00",
-      "location": "서울남부지법",
-      "description": "김범수 카카오 창업자의 SM엔터테인먼트 시세조종 의혹에 대한 결심공판이 열려 검찰 구형과 최후진술이 진행된다.",
-      "tags": [
-        "카카오",
-        "법률",
-        "금융"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250824105912",
-      "created_at": "2026-08-05T05:24:38.926008+00:00"
-    },
-    {
-      "id": "zdb-20250824-24",
-      "title": "KISA 3분기 '이슈앤톡' 개최",
-      "organizer": "한국인터넷진흥원(KISA)",
-      "start_at": "2025-08-29",
-      "end_at": null,
-      "time": "10:00",
-      "location": null,
-      "description": "KISA가 3분기 '이슈앤톡'을 열어 스미싱·엑스레이 서비스 대응 및 침해·유출신고 관련 발표를 진행한다.",
-      "tags": [
-        "보안",
-        "KISA",
-        "공공기관"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250824105912",
-      "created_at": "2026-08-05T05:24:38.926008+00:00"
-    },
-    {
-      "id": "zdb-20250831-01",
-      "title": "정기국회 개원식",
-      "organizer": "국회",
-      "start_at": "2025-09-01",
-      "end_at": null,
-      "time": null,
-      "location": "국회",
-      "description": "우원식 국회의장이 제안한 한복 착용 이벤트와 함께 정기국회 개원식이 열립니다.",
-      "tags": [
-        "국회",
-        "정치"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250831121055",
-      "created_at": "2026-08-05T05:25:43.265719+00:00"
-    },
-    {
-      "id": "zdb-20250831-04",
-      "title": "석유화학 산업 특별법 국회 공청회",
-      "organizer": "국회",
-      "start_at": "2025-09-01",
-      "end_at": null,
-      "time": null,
-      "location": "국회",
-      "description": "석유화학 산업 불황 극복을 위한 특별법 관련 공청회가 열리며 산업통상자원부, 공정거래위원회, 관련 기업들이 참여합니다.",
-      "tags": [
-        "석유화학",
-        "국회",
-        "산업통상자원부"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250831121055",
-      "created_at": "2026-08-05T05:25:43.265719+00:00"
-    },
     {
       "id": "zdb-20250831-16",
       "title": "대한대장항문학회 '안심내시경' 캠페인 및 심포지엄",
@@ -915,612 +23,6 @@
       "source": "zdbriefing",
       "source_url": "https://zdnet.co.kr/view/?no=20250831121055",
       "created_at": "2026-08-05T05:25:43.265719+00:00"
-    },
-    {
-      "id": "zdb-20250831-17",
-      "title": "대한간호협회 '간호로 지킨 나라, 우리가 지킬 이름' 캠페인",
-      "organizer": "대한간호협회",
-      "start_at": "2025-09-01",
-      "end_at": null,
-      "time": null,
-      "location": null,
-      "description": "광복 80주년을 맞아 독립운동가 간호사들의 역사를 알리는 캠페인과 라디오 연속 기획물이 시작됩니다.",
-      "tags": [
-        "의료",
-        "간호",
-        "대한간호협회"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250831121055",
-      "created_at": "2026-08-05T05:25:43.265719+00:00"
-    },
-    {
-      "id": "zdb-20250831-06",
-      "title": "서울라이트 DDP 2025 가을 포럼",
-      "organizer": "서울디자인재단, 서울특별시",
-      "start_at": "2025-09-02",
-      "end_at": null,
-      "time": null,
-      "location": "동대문디자인플라자(DDP)",
-      "description": "오픈AI가 참가해 AI 예술의 시각적·철학적 가능성을 탐구하는 포럼으로 오픈AI 코리아 관계자와 예술가들이 발표합니다.",
-      "tags": [
-        "AI",
-        "예술",
-        "오픈AI"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250831121055",
-      "created_at": "2026-08-05T05:25:43.265719+00:00"
-    },
-    {
-      "id": "zdb-20250831-07",
-      "title": "오케스트로 솔루션데이 2025",
-      "organizer": "오케스트로",
-      "start_at": "2025-09-02",
-      "end_at": null,
-      "time": null,
-      "location": "서울 강남구 그랜드 인터컨티넨탈 서울 파르나스",
-      "description": "'AI 시대의 클라우드 혁신'을 주제로 오케스트로가 AI와 클라우드 융합 전략을 발표하는 행사입니다.",
-      "tags": [
-        "클라우드",
-        "AI",
-        "오케스트로"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250831121055",
-      "created_at": "2026-08-05T05:25:43.265719+00:00"
-    },
-    {
-      "id": "zdb-20250831-08",
-      "title": "2025 인스웨이브 솔루션스데이",
-      "organizer": "인스웨이브",
-      "start_at": "2025-09-02",
-      "end_at": null,
-      "time": null,
-      "location": "서울 여의도 콘래드 서울 호텔",
-      "description": "인스웨이브가 UI 개발 통합 플랫폼 'AI 패스'와 고객사 성과 사례를 공유하는 행사입니다.",
-      "tags": [
-        "UI",
-        "AI",
-        "인스웨이브"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250831121055",
-      "created_at": "2026-08-05T05:25:43.265719+00:00"
-    },
-    {
-      "id": "zdb-20250831-13",
-      "title": "스마일게이트 '카제나' 사전 테스트 참가자 모집",
-      "organizer": "스마일게이트",
-      "start_at": "2025-09-02",
-      "end_at": null,
-      "time": null,
-      "location": null,
-      "description": "스마일게이트가 신작 다크판타지 RPG '카제나'의 사전 테스트 참가자 모집을 시작합니다.",
-      "tags": [
-        "게임",
-        "스마일게이트"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250831121055",
-      "created_at": "2026-08-05T05:25:43.265719+00:00"
-    },
-    {
-      "id": "zdb-20250831-03",
-      "title": "기업성장포럼 출범식",
-      "organizer": "한국경제인협회, 대한상공회의소, 한국중견기업연합회",
-      "start_at": "2025-09-03",
-      "end_at": null,
-      "time": null,
-      "location": "서울 중구 롯데호텔",
-      "description": "국내 경제단체들이 한국 경제의 역동성 회복을 위한 정책 대안을 논의할 기업성장포럼 출범식을 개최합니다.",
-      "tags": [
-        "경제단체",
-        "한국경제인협회",
-        "대한상공회의소",
-        "한국중견기업연합회"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250831121055",
-      "created_at": "2026-08-05T05:25:43.265719+00:00"
-    },
-    {
-      "id": "zdb-20250831-05",
-      "title": "국제 첨단 반도체 기판 및 패키징 산업전(KPCAShow)",
-      "organizer": null,
-      "start_at": "2025-09-03",
-      "end_at": "2025-09-05",
-      "time": null,
-      "location": "인천 송도컨벤시아",
-      "description": "국내 최대 PCB·반도체 패키징 전문 전시회로 김정호 카이스트 교수의 HBM 관련 기조강연이 진행됩니다.",
-      "tags": [
-        "반도체",
-        "패키징",
-        "PCB"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250831121055",
-      "created_at": "2026-08-05T05:25:43.265719+00:00"
-    },
-    {
-      "id": "zdb-20250831-09",
-      "title": "몽고DB 닷로컬 서울 2025",
-      "organizer": "몽고DB코리아",
-      "start_at": "2025-09-03",
-      "end_at": null,
-      "time": null,
-      "location": "서울 삼성동 코엑스",
-      "description": "몽고DB의 최신 애플리케이션 구축 전략과 LG유플러스, 메리츠화재 등 국내 고객사 사례가 발표됩니다.",
-      "tags": [
-        "데이터베이스",
-        "AI",
-        "몽고DB"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250831121055",
-      "created_at": "2026-08-05T05:25:43.265719+00:00"
-    },
-    {
-      "id": "zdb-20250831-10",
-      "title": "헥사곤 라이브 이노베이션 서밋 코리아 2025",
-      "organizer": "헥사곤 매뉴팩쳐링 인텔리전스",
-      "start_at": "2025-09-03",
-      "end_at": null,
-      "time": null,
-      "location": "서울 양재동 aT센터 그랜드홀",
-      "description": "헥사곤이 신제품 솔루션과 고객 사례를 발표하는 산업 혁신 서밋으로 임분춘 사장 등이 기조연설을 진행합니다.",
-      "tags": [
-        "제조",
-        "헥사곤"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250831121055",
-      "created_at": "2026-08-05T05:25:43.265719+00:00"
-    },
-    {
-      "id": "zdb-20250831-18",
-      "title": "사이버아크 아이덴티티 보안 기자간담회",
-      "organizer": "사이버아크",
-      "start_at": "2025-09-03",
-      "end_at": null,
-      "time": null,
-      "location": "서울 삼성동 파크 하얏트 호텔",
-      "description": "사이버아크가 2025년 아이덴티티 보안 환경 리포트와 비즈니스 전략을 발표하는 기자간담회를 개최합니다.",
-      "tags": [
-        "보안",
-        "AI",
-        "클라우드",
-        "사이버아크"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250831121055",
-      "created_at": "2026-08-05T05:25:43.265719+00:00"
-    },
-    {
-      "id": "zdb-20250831-02",
-      "title": "IFA 2025 개막",
-      "organizer": null,
-      "start_at": "2025-09-04",
-      "end_at": null,
-      "time": null,
-      "location": "독일 베를린",
-      "description": "유럽 최대 가전 전시회 IFA 2025가 개막하며 삼성전자, LG전자 등 국내 기업과 중국 업체들이 신제품과 기술을 선보입니다.",
-      "tags": [
-        "가전",
-        "삼성전자",
-        "LG전자"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250831121055",
-      "created_at": "2026-08-05T05:25:43.265719+00:00"
-    },
-    {
-      "id": "zdb-20250831-11",
-      "title": "마키나락스 어텐션 2025",
-      "organizer": "마키나락스",
-      "start_at": "2025-09-04",
-      "end_at": null,
-      "time": null,
-      "location": "서울 서초구 엘타워 그랜드홀",
-      "description": "'AI가 바꾸는 산업, 그리고 세상'을 주제로 산업 현장의 최신 AI 기술과 에이전틱 AI 사례를 공유합니다.",
-      "tags": [
-        "AI",
-        "산업",
-        "마키나락스"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250831121055",
-      "created_at": "2026-08-05T05:25:43.265719+00:00"
-    },
-    {
-      "id": "zdb-20250831-12",
-      "title": "유라클 AI 서밋 2025",
-      "organizer": "유라클",
-      "start_at": "2025-09-04",
-      "end_at": null,
-      "time": null,
-      "location": "서울 코엑스",
-      "description": "유라클이 AI 기업 전환을 선언하며 AI 제품군과 협업 성과를 공유하는 행사입니다.",
-      "tags": [
-        "AI",
-        "유라클"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250831121055",
-      "created_at": "2026-08-05T05:25:43.265719+00:00"
-    },
-    {
-      "id": "zdb-20250831-15",
-      "title": "넷마블 '킹 오브 파이터 AFK' 출시",
-      "organizer": "넷마블",
-      "start_at": "2025-09-04",
-      "end_at": null,
-      "time": null,
-      "location": null,
-      "description": "넷마블네오가 개발한 SNK IP 기반 모바일 RPG '킹 오브 파이터 AFK'가 출시됩니다.",
-      "tags": [
-        "게임",
-        "넷마블"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250831121055",
-      "created_at": "2026-08-05T05:25:43.265719+00:00"
-    },
-    {
-      "id": "zdb-20250914-04",
-      "title": "국회 대정부질문",
-      "organizer": "국회",
-      "start_at": "2025-09-15",
-      "end_at": "2025-09-18",
-      "time": null,
-      "location": "국회",
-      "description": "새 정부 첫 정기국회 대정부질문이 나흘간 정치, 외교·통일·안보, 경제, 교육·사회·문화 순으로 진행된다.",
-      "tags": [
-        "공공",
-        "국회"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250914144601",
-      "created_at": "2026-08-05T05:45:48.678423+00:00"
-    },
-    {
-      "id": "zdb-20250914-06",
-      "title": "인공지능 특화 파운데이션 모델 프로젝트 사업설명회",
-      "organizer": "과학기술정보통신부",
-      "start_at": "2025-09-15",
-      "end_at": null,
-      "time": null,
-      "location": "엘타워",
-      "description": "과기정통부와 정보통신산업진흥원이 특정 산업 특화 AI 파운데이션 모델 개발 지원 사업의 추진 방향과 참여 방법을 공유하는 설명회이다.",
-      "tags": [
-        "AI",
-        "공공SW",
-        "과학기술정보통신부"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250914144601",
-      "created_at": "2026-08-05T05:45:48.678423+00:00"
-    },
-    {
-      "id": "zdb-20250914-15",
-      "title": "국민이 원하는 진짜 의료혁신 제2차 토론회",
-      "organizer": null,
-      "start_at": "2025-09-15",
-      "end_at": null,
-      "time": "10:00",
-      "location": "국회의원회관 제9간담회의실",
-      "description": "AI 기반 지능형병원 발전 방향과 환자 모니터링 솔루션 사례를 통해 스마트병원 확산을 위한 제도적·재정적 과제를 논의하는 토론회이다.",
-      "tags": [
-        "AI",
-        "헬스케어",
-        "국회"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250914144601",
-      "created_at": "2026-08-05T05:45:48.678423+00:00"
-    },
-    {
-      "id": "zdb-20250914-16",
-      "title": "HPV 국가접종 대상 확대와 고품질 백신 전환을 위한 정책토론회",
-      "organizer": "더불어민주당",
-      "start_at": "2025-09-15",
-      "end_at": null,
-      "time": "10:00",
-      "location": "국회의원회관 제8간담회실",
-      "description": "HPV 국가예방접종 대상을 남성까지 확대하고 9가 백신 도입 필요성을 논의하는 정책토론회이다.",
-      "tags": [
-        "헬스케어",
-        "보건정책",
-        "국회"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250914144601",
-      "created_at": "2026-08-05T05:45:48.678423+00:00"
-    },
-    {
-      "id": "zdb-20250914-17",
-      "title": "제47차 글로벌 프라이버시 총회(GPA)",
-      "organizer": "GPA",
-      "start_at": "2025-09-15",
-      "end_at": "2025-09-19",
-      "time": null,
-      "location": "그랜드하얏트 서울",
-      "description": "세계 각국 개인정보 감독기구와 전문가들이 모여 개인정보 정책 동향을 공유하고 공동 선언문을 채택하는 국제 협의체 행사이다.",
-      "tags": [
-        "개인정보",
-        "프라이버시",
-        "GPA"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250914144601",
-      "created_at": "2026-08-05T05:45:48.678423+00:00"
-    },
-    {
-      "id": "zdb-20250914-19",
-      "title": "3000만 관광시대! 관광혁신 포럼 국회 토론회",
-      "organizer": "국회 문화체육관광위원회",
-      "start_at": "2025-09-15",
-      "end_at": null,
-      "time": "10:00",
-      "location": "국회도서관",
-      "description": "외국인관광도시민박업 제도 혁신과 공유숙박 상생 방안을 논의하는 국회 토론회이다.",
-      "tags": [
-        "공유숙박",
-        "관광",
-        "국회"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250914144601",
-      "created_at": "2026-08-05T05:45:48.678423+00:00"
-    },
-    {
-      "id": "zdb-20250914-07",
-      "title": "IBM AI 서밋 코리아",
-      "organizer": "IBM",
-      "start_at": "2025-09-16",
-      "end_at": null,
-      "time": null,
-      "location": "삼성동 그랜드 인터컨티넨탈 서울 파르나스 호텔",
-      "description": "IBM이 신뢰성 있는 AI 활용 전략, 하이브리드 클라우드 기반 산업 혁신 사례 등을 공유하는 행사로 인터랙티브 전시와 체험존이 마련된다.",
-      "tags": [
-        "AI",
-        "클라우드",
-        "IBM"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250914144601",
-      "created_at": "2026-08-05T05:45:48.678423+00:00"
-    },
-    {
-      "id": "zdb-20250914-08",
-      "title": "오픈텍스트 서밋 코리아 2025",
-      "organizer": "오픈텍스트코리아",
-      "start_at": "2025-09-16",
-      "end_at": null,
-      "time": null,
-      "location": "서울 강남구 조선팰리스 호텔",
-      "description": "생성형 AI 도입, SAP S/4HANA 전환, 사이버 보안 강화 등 기업 문서 협업·자동화 전략을 다루는 행사이다.",
-      "tags": [
-        "AI",
-        "보안",
-        "오픈텍스트"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250914144601",
-      "created_at": "2026-08-05T05:45:48.678423+00:00"
-    },
-    {
-      "id": "zdb-20250914-09",
-      "title": "에이전트포스 디지털 서밋",
-      "organizer": "세일즈포스 코리아",
-      "start_at": "2025-09-16",
-      "end_at": null,
-      "time": null,
-      "location": "양재 엘타워 7층 그랜드홀",
-      "description": "세일즈포스가 AI 에이전트 기반 최신 마케팅 전략과 고객 성공 사례를 공유하는 마케터 대상 행사이다.",
-      "tags": [
-        "AI",
-        "마케팅",
-        "세일즈포스"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250914144601",
-      "created_at": "2026-08-05T05:45:48.678423+00:00"
-    },
-    {
-      "id": "zdb-20250914-02",
-      "title": "제16회 Korea Advanced Battery Conference 2025",
-      "organizer": "SNE리서치",
-      "start_at": "2025-09-17",
-      "end_at": "2025-09-18",
-      "time": null,
-      "location": "서울 양재동 EL타워",
-      "description": "SNE리서치 주최로 LG에너지솔루션, 삼성SDI, CALB, SES 등 국내외 배터리 업체가 참여해 정책 변화 대응과 성장 전략을 논의하는 배터리 컨퍼런스이다.",
-      "tags": [
-        "배터리",
-        "LG에너지솔루션",
-        "삼성SDI",
-        "SNE리서치"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250914144601",
-      "created_at": "2026-08-05T05:45:48.678423+00:00"
-    },
-    {
-      "id": "zdb-20250914-03",
-      "title": "제8회 소방방재 기술 산업전",
-      "organizer": null,
-      "start_at": "2025-09-17",
-      "end_at": "2025-09-19",
-      "time": null,
-      "location": "서울 양재 aT센터 제2전시장",
-      "description": "소방정보시스템, 자동화재탐지설비, AI·드론 기반 소방로봇 등 차세대 소방 융합기술이 소개되는 산업전이다.",
-      "tags": [
-        "소방",
-        "AI",
-        "드론"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250914144601",
-      "created_at": "2026-08-05T05:45:48.678423+00:00"
-    },
-    {
-      "id": "zdb-20250914-05",
-      "title": "세계우표전시회(필라코리아 2025)",
-      "organizer": null,
-      "start_at": "2025-09-17",
-      "end_at": null,
-      "time": null,
-      "location": "서울 강서구 코엑스 마곡",
-      "description": "국내에서 11년 만에 열리는 세계우표전시회로 전세계 65개국 20만장 이상의 우표와 '1센트 마젠타' 우표가 국내 최초 전시된다.",
-      "tags": [
-        "문화",
-        "전시"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250914144601",
-      "created_at": "2026-08-05T05:45:48.678423+00:00"
-    },
-    {
-      "id": "zdb-20250831-14",
-      "title": "스마일게이트 '카제나' 사전 테스트 진행",
-      "organizer": "스마일게이트",
-      "start_at": "2025-09-18",
-      "end_at": "2025-09-21",
-      "time": null,
-      "location": null,
-      "description": "신작 게임 '카제나'의 사전 테스트가 나흘간 진행됩니다.",
-      "tags": [
-        "게임",
-        "스마일게이트"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250831121055",
-      "created_at": "2026-08-05T05:25:43.265719+00:00"
-    },
-    {
-      "id": "zdb-20250914-10",
-      "title": "싱크데이터랩스 기자간담회",
-      "organizer": "싱크데이터랩스",
-      "start_at": "2025-09-18",
-      "end_at": null,
-      "time": null,
-      "location": "성남시 분당구 바이텍씨스템 본사",
-      "description": "싱크데이터랩스가 글로벌 전략, 한국 시장 진출 배경, 데이터 파이프라인 및 AI 통합 기술 로드맵을 소개하는 간담회이다.",
-      "tags": [
-        "AI",
-        "데이터",
-        "싱크데이터랩스"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250914144601",
-      "created_at": "2026-08-05T05:45:48.678423+00:00"
-    },
-    {
-      "id": "zdb-20250914-11",
-      "title": "인공지능 시대의 SW프로세스 품질 혁신 세미나",
-      "organizer": "SP인증기업 협의회",
-      "start_at": "2025-09-18",
-      "end_at": null,
-      "time": null,
-      "location": "서울 강남구 삼정호텔",
-      "description": "AI 시대 소프트웨어 품질의 중요성과 SP인증 활용 역량 강화 방안을 논의하는 세미나이다.",
-      "tags": [
-        "AI",
-        "공공SW",
-        "SP인증"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250914144601",
-      "created_at": "2026-08-05T05:45:48.678423+00:00"
-    },
-    {
-      "id": "zdb-20250914-13",
-      "title": "프로젝트 스테이블 원 기술 시연회",
-      "organizer": "위메이드",
-      "start_at": "2025-09-18",
-      "end_at": null,
-      "time": null,
-      "location": "앰배서더 서울 풀만 호텔",
-      "description": "위메이드가 원화 스테이블코인의 미래 비전과 기술 시연을 발표하는 행사이다.",
-      "tags": [
-        "블록체인",
-        "스테이블코인",
-        "위메이드"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250914144601",
-      "created_at": "2026-08-05T05:45:48.678423+00:00"
-    },
-    {
-      "id": "zdb-20250914-01",
-      "title": "전력거래소 ESS 중앙계약시장 2차 사업 설명회",
-      "organizer": "전력거래소",
-      "start_at": "2025-09-19",
-      "end_at": null,
-      "time": null,
-      "location": "코엑스",
-      "description": "국내 ESS 사업자 대상 ESS 중앙계약시장 2차 사업 설명회로, 1차 사업(1조원 규모)보다 규모가 커질 것으로 전망돼 수주 경쟁이 치열할 것으로 예상된다.",
-      "tags": [
-        "ESS",
-        "에너지",
-        "전력거래소"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250914144601",
-      "created_at": "2026-08-05T05:45:48.678423+00:00"
-    },
-    {
-      "id": "zdb-20250914-12",
-      "title": "GXG 2025",
-      "organizer": "성남산업진흥원·게임문화재단",
-      "start_at": "2025-09-19",
-      "end_at": "2025-09-20",
-      "time": null,
-      "location": "판교역 일대",
-      "description": "게임을 문화로 즐기는 복합문화축제로 무대, 체험, 전시, 콜라보 프로그램 등이 진행된다.",
-      "tags": [
-        "게임",
-        "성남산업진흥원"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250914144601",
-      "created_at": "2026-08-05T05:45:48.678423+00:00"
-    },
-    {
-      "id": "zdb-20250914-14",
-      "title": "마비노기 모바일 '빅 캠프파이어' 쇼케이스",
-      "organizer": "넥슨",
-      "start_at": "2025-09-19",
-      "end_at": null,
-      "time": "19:00",
-      "location": "유튜브 마비노기 모바일 공식 채널",
-      "description": "넥슨이 마비노기 모바일 신규 스토리와 콘텐츠 확장을 공개하는 온라인 쇼케이스이다.",
-      "tags": [
-        "게임",
-        "넥슨"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250914144601",
-      "created_at": "2026-08-05T05:45:48.678423+00:00"
-    },
-    {
-      "id": "zdb-20250914-18",
-      "title": "2025년 정보보호 교육 및 거버넌스 워크샵",
-      "organizer": "정보보호학회",
-      "start_at": "2025-09-19",
-      "end_at": null,
-      "time": "10:00",
-      "location": "대한상공회의소",
-      "description": "AI 시대 보안 거버넌스 및 스킬업 전략을 주제로 대규모 보안사고 원인 분석과 대응 방안을 논의하는 워크샵이다.",
-      "tags": [
-        "보안",
-        "AI",
-        "정보보호학회"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20250914144601",
-      "created_at": "2026-08-05T05:45:48.678423+00:00"
     },
     {
       "id": "zdb-20251012-05",
@@ -4865,6 +3367,312 @@
       "source": "zdbriefing",
       "source_url": "https://zdnet.co.kr/view/?no=20260802142528",
       "created_at": "2026-08-02T12:35:44.305435+00:00"
+    },
+    {
+      "id": "zdb-20260927-05",
+      "title": "개인정보보호위원장-통신3사 CEO 첫 회동",
+      "organizer": "개인정보보호위원회",
+      "start_at": "2026-09-28",
+      "end_at": null,
+      "time": null,
+      "location": "한국프레스센터",
+      "description": "개인정보보호위원장과 통신 3사 CEO가 처음으로 회동해 AI 시대 개인정보 보호 강화 방안을 논의하고 공동선언문을 발표할 예정입니다.",
+      "tags": [
+        "개인정보보호",
+        "통신",
+        "SK텔레콤",
+        "KT",
+        "LG유플러스"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20260927121709",
+      "created_at": "2026-09-27T15:44:26.266304+00:00"
+    },
+    {
+      "id": "zdb-20260927-08",
+      "title": "장병e음 성과공유회",
+      "organizer": "국방부, 한국지능정보사회진흥원(NIA)",
+      "start_at": "2026-09-28",
+      "end_at": null,
+      "time": null,
+      "location": "서울 피스앤파크컨벤션",
+      "description": "국방부와 NIA가 민간 클라우드 기반 장병e음 플랫폼의 성과를 공유하고 2차 서비스 개시를 시연하며, AI 에이전트 시대 국방 발전 방향 세미나도 진행합니다.",
+      "tags": [
+        "공공SW",
+        "클라우드",
+        "국방부",
+        "NIA"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20260927121709",
+      "created_at": "2026-09-27T15:44:26.266304+00:00"
+    },
+    {
+      "id": "zdb-20260927-09",
+      "title": "콴델라 기자간담회",
+      "organizer": "콴델라",
+      "start_at": "2026-09-28",
+      "end_at": null,
+      "time": null,
+      "location": "서울 종로구 센트로폴리스",
+      "description": "콴델라가 한국 양자 산업 협력 구상과 오류정정 양자컴퓨팅(FTQC) 기술 로드맵을 공개하는 기자간담회를 개최합니다.",
+      "tags": [
+        "양자컴퓨팅",
+        "콴델라"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20260927121709",
+      "created_at": "2026-09-27T15:44:26.266304+00:00"
+    },
+    {
+      "id": "zdb-20260927-16",
+      "title": "청소년에게 안전한 디지털 환경은 누구의 책임인가 토론회",
+      "organizer": "한국소비자연맹",
+      "start_at": "2026-09-28",
+      "end_at": null,
+      "time": "14:00",
+      "location": "국회의원회관",
+      "description": "한국소비자연맹이 SNS·AI 챗봇의 청소년 과의존 문제를 플랫폼 책임 관점에서 논의하며 'Safety by Design' 제도화 방안을 다루는 토론회를 개최합니다.",
+      "tags": [
+        "AI",
+        "SNS",
+        "청소년보호"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20260927121709",
+      "created_at": "2026-09-27T15:44:26.266304+00:00"
+    },
+    {
+      "id": "zdb-20260927-17",
+      "title": "고혈압 당뇨병 환자 등록기반 지속가능한 노인 만성질환 관리체계 방안 국회토론회",
+      "organizer": "전국 고혈압·당뇨병 등록교육센터 공동대책협의회",
+      "start_at": "2026-09-28",
+      "end_at": null,
+      "time": null,
+      "location": "국회",
+      "description": "협의회가 국회의원들과 함께 고혈압·당뇨병 등록관리사업의 진료비·약제비 국고지원 중단 정책 재검토를 촉구하는 국회토론회를 개최합니다.",
+      "tags": [
+        "보건복지",
+        "의료정책"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20260927121709",
+      "created_at": "2026-09-27T15:44:26.266304+00:00"
+    },
+    {
+      "id": "zdb-20260927-02",
+      "title": "첨단산업 전력수요 급증, 원전이 해답인가? 원전 경제성 분석 토론회",
+      "organizer": null,
+      "start_at": "2026-09-29",
+      "end_at": null,
+      "time": null,
+      "location": "국회의원회관 제5간담회의실",
+      "description": "반도체·AI데이터센터 등 첨단산업의 전력수요 급증에 대응한 원전 경제성을 분석하는 토론회가 국회의원회관에서 열립니다.",
+      "tags": [
+        "원전",
+        "에너지",
+        "반도체",
+        "AI데이터센터"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20260927121709",
+      "created_at": "2026-09-27T15:44:26.266304+00:00"
+    },
+    {
+      "id": "zdb-20260927-03",
+      "title": "AI시대에 부응하는 원자력, 원자력 정책이 나아가야 할 방향은 무엇인가 정책토론회",
+      "organizer": null,
+      "start_at": "2026-09-29",
+      "end_at": null,
+      "time": null,
+      "location": "국회의원회관 제1세미나실",
+      "description": "AI 시대에 맞는 원자력 정책 방향을 논의하는 정책토론회가 국회의원회관 제1세미나실에서 개최됩니다.",
+      "tags": [
+        "원전",
+        "AI",
+        "에너지정책"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20260927121709",
+      "created_at": "2026-09-27T15:44:26.266304+00:00"
+    },
+    {
+      "id": "zdb-20260927-10",
+      "title": "래블업 기술 컨퍼런스 'lab|up>/conf/6'",
+      "organizer": "래블업",
+      "start_at": "2026-09-29",
+      "end_at": null,
+      "time": null,
+      "location": "서울 삼성동 코엑스",
+      "description": "래블업이 연례 기술 컨퍼런스를 열어 AI 인프라 기술과 연구개발 성과를 공유하고 업계 관계자들과 기술 과제를 논의합니다.",
+      "tags": [
+        "AI",
+        "AI인프라",
+        "래블업"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20260927121709",
+      "created_at": "2026-09-27T15:44:26.266304+00:00"
+    },
+    {
+      "id": "zdb-20260927-11",
+      "title": "마이크로소프트 인더스트리서밋",
+      "organizer": "마이크로소프트",
+      "start_at": "2026-09-30",
+      "end_at": null,
+      "time": null,
+      "location": "서울 코엑스",
+      "description": "마이크로소프트가 금융·리테일·제조·헬스케어·교육 분야의 산업별 AI 전환 전략과 현장 사례를 공유하는 인더스트리서밋을 개최합니다.",
+      "tags": [
+        "AI",
+        "마이크로소프트"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20260927121709",
+      "created_at": "2026-09-27T15:44:26.266304+00:00"
+    },
+    {
+      "id": "zdb-20260927-12",
+      "title": "앨리스그룹 IPO 기자간담회",
+      "organizer": "엘리스그룹",
+      "start_at": "2026-09-30",
+      "end_at": null,
+      "time": null,
+      "location": "서울 여의도 CCMM빌딩",
+      "description": "엘리스그룹이 상장 계획과 전략을 발표하는 IPO 기자간담회를 개최하며 AI 인프라 사업의 성장성을 강조할 예정입니다.",
+      "tags": [
+        "IPO",
+        "AI인프라",
+        "엘리스그룹"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20260927121709",
+      "created_at": "2026-09-27T15:44:26.266304+00:00"
+    },
+    {
+      "id": "zdb-20260927-13",
+      "title": "플리토 미디어 인사이트 데이",
+      "organizer": "플리토",
+      "start_at": "2026-09-30",
+      "end_at": null,
+      "time": null,
+      "location": "그랜드 인터컨티넨탈 서울 파르나스",
+      "description": "플리토가 리브랜딩한 AI 통번역 솔루션을 처음 공개하는 '미디어 인사이트 데이' 행사를 개최합니다.",
+      "tags": [
+        "AI",
+        "번역",
+        "플리토"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20260927121709",
+      "created_at": "2026-09-27T15:44:26.266304+00:00"
+    },
+    {
+      "id": "zdb-20260927-01",
+      "title": "마이크론 2026회계연도 4분기 실적발표",
+      "organizer": "마이크론",
+      "start_at": "2026-10-01",
+      "end_at": null,
+      "time": null,
+      "location": null,
+      "description": "마이크론이 2026회계연도 4분기(6~8월) 실적을 발표하며 매출 500억 달러(±10억 달러)로 역대 최대 실적을 예고했습니다. 삼성전자·SK하이닉스 실적과 D램·낸드 ASP 흐름을 가늠할 지표로 주목받습니다.",
+      "tags": [
+        "반도체",
+        "메모리",
+        "마이크론"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20260927121709",
+      "created_at": "2026-09-27T15:44:26.266304+00:00"
+    },
+    {
+      "id": "zdb-20260927-14",
+      "title": "제3회 AI-클라우드 빅테크 2026 컨퍼런스",
+      "organizer": "한국인공지능클라우드산업협회",
+      "start_at": "2026-10-01",
+      "end_at": null,
+      "time": null,
+      "location": "서울 양재 엘타워",
+      "description": "한국인공지능클라우드산업협회가 AI·클라우드 산업의 기술적·정책적 과제를 다루는 컨퍼런스를 개최하며 KT클라우드, 네이버클라우드 등이 참석합니다.",
+      "tags": [
+        "AI",
+        "클라우드",
+        "KT클라우드",
+        "네이버클라우드"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20260927121709",
+      "created_at": "2026-09-27T15:44:26.266304+00:00"
+    },
+    {
+      "id": "zdb-20260927-06",
+      "title": "알뜰폰 2.0 정책세미나",
+      "organizer": null,
+      "start_at": "2026-10-02",
+      "end_at": null,
+      "time": null,
+      "location": "국회",
+      "description": "알뜰폰의 양적 성장에서 질적 성장으로 정책 방향을 전환하자는 논의가 국회에서 세미나 형태로 열리며 시민단체와 정부, 업계 관계자가 참여합니다.",
+      "tags": [
+        "알뜰폰",
+        "통신정책"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20260927121709",
+      "created_at": "2026-09-27T15:44:26.266304+00:00"
+    },
+    {
+      "id": "zdb-20260927-07",
+      "title": "호요랜드 2026",
+      "organizer": "호요버스코리아",
+      "start_at": "2026-10-02",
+      "end_at": "2026-10-05",
+      "time": null,
+      "location": "일산 킨텍스",
+      "description": "호요버스코리아가 '붕괴3rd', '원신' 등 대표 게임 IP를 선보이는 종합 오프라인 축제 '호요랜드 2026'을 킨텍스에서 개최합니다.",
+      "tags": [
+        "게임",
+        "호요버스코리아"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20260927121709",
+      "created_at": "2026-09-27T15:44:26.266304+00:00"
+    },
+    {
+      "id": "zdb-20260927-15",
+      "title": "3대 AI 강국의 조건: 강건한 AI·SW 생태계 포럼",
+      "organizer": "한국상용인공지능소프트웨어협회",
+      "start_at": "2026-10-02",
+      "end_at": null,
+      "time": null,
+      "location": "더그랜드롯데 서울",
+      "description": "한국상용인공지능소프트웨어협회가 공공 소프트웨어 조달·발주·규제 보완점과 산업 경쟁력 향상 방안을 논의하는 포럼을 개최합니다.",
+      "tags": [
+        "AI",
+        "공공SW",
+        "소프트웨어"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20260927121709",
+      "created_at": "2026-09-27T15:44:26.266304+00:00"
+    },
+    {
+      "id": "zdb-20260927-04",
+      "title": "포르쉐 바이브 서울 2026",
+      "organizer": "포르쉐코리아",
+      "start_at": "2026-10-03",
+      "end_at": "2026-10-04",
+      "time": null,
+      "location": "서울 마포구 문화비축기지",
+      "description": "포르쉐코리아가 국내 최대 규모 팬 페스티벌 '포르쉐 바이브 서울'을 개최하며 역대 명차와 신형 카이엔 일렉트릭을 전시하고 존박, 거미, 다이나믹 듀오 등의 공연이 열립니다.",
+      "tags": [
+        "자동차",
+        "포르쉐코리아",
+        "전기차"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20260927121709",
+      "created_at": "2026-09-27T15:44:26.266304+00:00"
     }
   ]
 }
