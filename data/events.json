@@ -1,80 +1,11 @@
 {
   "source_article": {
-    "url": "https://zdnet.co.kr/view/?no=20261025131537",
-    "title": "[ZD브리핑] 최대 실적 SK하이닉스‧삼성전자…주가 견인할까",
-    "published_at": "2026-10-25T13:56:00+09:00"
+    "url": "https://zdnet.co.kr/view/?no=20261101115152",
+    "title": "[ZD브리핑] 반도체·로봇·수소 산업 행사 풍성…통신·게임 등 실적 주목",
+    "published_at": "2026-11-01T12:19:00+09:00"
   },
-  "generated_at": "2026-10-25T15:00:46.988064+00:00",
+  "generated_at": "2026-11-01T17:12:27.538363+00:00",
   "events": [
-    {
-      "id": "zdb-20251012-21",
-      "title": "네이버웹툰 '마루의 숲속 베이커리에 놀러와' 팝업스토어",
-      "organizer": "네이버웹툰",
-      "start_at": "2025-10-16",
-      "end_at": "2025-10-26",
-      "time": null,
-      "location": "롯데월드몰 1층 아트리움",
-      "description": "네이버웹툰이 대표 IP '마루는 강쥐'를 주제로 한 팝업스토어를 16일부터 26일까지 롯데월드몰에서 운영한다.",
-      "tags": [
-        "웹툰",
-        "네이버웹툰"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20251012132729",
-      "created_at": "2026-08-05T05:31:42.898824+00:00"
-    },
-    {
-      "id": "zdb-20251012-19",
-      "title": "'아크 레이더스' 정식 출시",
-      "organizer": "넥슨코리아",
-      "start_at": "2025-10-30",
-      "end_at": null,
-      "time": null,
-      "location": null,
-      "description": "'아크 레이더스'가 30일 PC와 플레이스테이션5, 엑스박스 등 멀티 플랫폼으로 정식 출시된다.",
-      "tags": [
-        "게임",
-        "넥슨"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20251012132729",
-      "created_at": "2026-08-05T05:31:42.898824+00:00"
-    },
-    {
-      "id": "zdb-20251102-02",
-      "title": "폭스바겐그룹 1~9월 누적 실적 발표",
-      "organizer": "폭스바겐그룹",
-      "start_at": "2025-10-30",
-      "end_at": null,
-      "time": null,
-      "location": null,
-      "description": "폭스바겐그룹이 매출 2천387억유로, 영업이익 54억유로의 3분기 누적 실적을 발표했으며 관세와 포르쉐 손상차손 영향으로 영업이익이 급감했다.",
-      "tags": [
-        "자동차",
-        "실적발표",
-        "폭스바겐"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20251102121508",
-      "created_at": "2026-08-05T05:35:16.318719+00:00"
-    },
-    {
-      "id": "zdb-20251102-03",
-      "title": "미중 정상회담",
-      "organizer": null,
-      "start_at": "2025-10-30",
-      "end_at": null,
-      "time": null,
-      "location": "부산",
-      "description": "미중 정상회담에서 미국이 중국 자회사 수출 통제를 1년간 보류하고 중국도 넥스페리아 수출 중단 조치를 해제하기로 합의했다.",
-      "tags": [
-        "무역",
-        "미중관계"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20251102121508",
-      "created_at": "2026-08-05T05:35:16.318719+00:00"
-    },
     {
       "id": "zdb-20251102-04",
       "title": "SK AI 서밋 2025",
@@ -4701,6 +4632,396 @@
       "source": "zdbriefing",
       "source_url": "https://zdnet.co.kr/view/?no=20261025131537",
       "created_at": "2026-10-25T15:00:46.987852+00:00"
+    },
+    {
+      "id": "zdb-20261101-15",
+      "title": "무역 AI 우수 서비스 활용 실습 설명회",
+      "organizer": "한국무역협회",
+      "start_at": "2026-11-02",
+      "end_at": null,
+      "time": null,
+      "location": "서울 삼성동 트레이드타워 51층 중회의실",
+      "description": "AI 기반 해외영업 서비스 '린다'를 활용한 중소 수출기업의 해외 바이어 발굴 및 영업 자동화 사례를 시연하는 설명회입니다.",
+      "tags": [
+        "AI",
+        "무역",
+        "공공SW",
+        "한국무역협회"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20261101115152",
+      "created_at": "2026-11-01T17:12:27.538089+00:00"
+    },
+    {
+      "id": "zdb-20261101-16",
+      "title": "포스코DX 2026년 3분기 경영실적 기업설명회",
+      "organizer": "포스코DX",
+      "start_at": "2026-11-02",
+      "end_at": null,
+      "time": null,
+      "location": null,
+      "description": "포스코DX가 3분기 경영실적과 자동화 사업, AX, 피지컬 AI 사업 성과를 공개하는 기업설명회를 개최합니다.",
+      "tags": [
+        "AI",
+        "자동화",
+        "실적발표",
+        "포스코DX"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20261101115152",
+      "created_at": "2026-11-01T17:12:27.538089+00:00"
+    },
+    {
+      "id": "zdb-20261101-21",
+      "title": "mRNA 암백신·면역항암제 미디어 브리핑",
+      "organizer": "한국과학기술미디어센터(SMCK)",
+      "start_at": "2026-11-02",
+      "end_at": null,
+      "time": "10:30",
+      "location": null,
+      "description": "SMCK가 모더나-머크의 mRNA 암백신과 면역항암제 병용요법 임상 3상 결과와 시사점을 전문가가 해설하는 미디어 브리핑을 개최합니다.",
+      "tags": [
+        "바이오",
+        "헬스케어",
+        "SMCK",
+        "모더나",
+        "머크"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20261101115152",
+      "created_at": "2026-11-01T17:12:27.538089+00:00"
+    },
+    {
+      "id": "zdb-20261101-01",
+      "title": "ISMP 2026 국제학술대회",
+      "organizer": "한국마이크로전자패키징학회",
+      "start_at": "2026-11-03",
+      "end_at": "2026-11-06",
+      "time": null,
+      "location": "부산 파라다이스호텔",
+      "description": "오픈AI, SK하이닉스, AMD, 삼성전자, 엔비디아 등이 참여해 칩렛 패키지, 하이브리드 본딩 등 최신 반도체 패키징 기술을 공유하는 국제학술대회입니다.",
+      "tags": [
+        "반도체",
+        "패키징",
+        "SK하이닉스",
+        "삼성전자",
+        "엔비디아",
+        "AMD"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20261101115152",
+      "created_at": "2026-11-01T17:12:27.538089+00:00"
+    },
+    {
+      "id": "zdb-20261101-03",
+      "title": "LG에너지솔루션 3분기 실적발표",
+      "organizer": "LG에너지솔루션",
+      "start_at": "2026-11-03",
+      "end_at": null,
+      "time": null,
+      "location": null,
+      "description": "LG에너지솔루션이 3분기 실적을 발표합니다.",
+      "tags": [
+        "배터리",
+        "실적발표",
+        "LG에너지솔루션"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20261101115152",
+      "created_at": "2026-11-01T17:12:27.538089+00:00"
+    },
+    {
+      "id": "zdb-20261101-06",
+      "title": "KAI 노조 3차 상경투쟁집회",
+      "organizer": "한국항공우주산업(KAI) 노조",
+      "start_at": "2026-11-03",
+      "end_at": null,
+      "time": null,
+      "location": "대통령실 앞",
+      "description": "KAI 노조가 한화의 KAI 인수 시도 저지와 정부의 결단을 촉구하며 대통령실 앞에서 3차 상경투쟁집회를 진행합니다.",
+      "tags": [
+        "항공우주",
+        "노조",
+        "KAI",
+        "한화"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20261101115152",
+      "created_at": "2026-11-01T17:12:27.538089+00:00"
+    },
+    {
+      "id": "zdb-20261101-11",
+      "title": "넥써쓰 3분기 실적발표",
+      "organizer": "넥써쓰",
+      "start_at": "2026-11-03",
+      "end_at": null,
+      "time": null,
+      "location": null,
+      "description": "게임사 넥써쓰가 3분기 실적을 공개합니다.",
+      "tags": [
+        "게임",
+        "실적발표",
+        "넥써쓰"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20261101115152",
+      "created_at": "2026-11-01T17:12:27.538089+00:00"
+    },
+    {
+      "id": "zdb-20261101-17",
+      "title": "2026 민간투자형 SW사업 통합설명회",
+      "organizer": "한국지능정보사회진흥원(NIA)",
+      "start_at": "2026-11-03",
+      "end_at": null,
+      "time": null,
+      "location": "서울 세브란스빌딩",
+      "description": "공공과 민간이 협력하는 민간투자형 SW사업 제도와 추진가이드 3.0 개정 내용을 공유하는 설명회입니다.",
+      "tags": [
+        "공공SW",
+        "NIA"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20261101115152",
+      "created_at": "2026-11-01T17:12:27.538089+00:00"
+    },
+    {
+      "id": "zdb-20261101-02",
+      "title": "로보월드 2026",
+      "organizer": "산업통상부",
+      "start_at": "2026-11-04",
+      "end_at": "2026-11-07",
+      "time": null,
+      "location": "일산 킨텍스",
+      "description": "국내 최대 로봇산업 전시회로 제조업용 로봇, 서비스 로봇, 물류로봇 및 부품 등을 선보입니다.",
+      "tags": [
+        "로봇",
+        "전시회",
+        "산업통상부"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20261101115152",
+      "created_at": "2026-11-01T17:12:27.538089+00:00"
+    },
+    {
+      "id": "zdb-20261101-05",
+      "title": "월드 하이드로젠 엑스포 2026",
+      "organizer": null,
+      "start_at": "2026-11-04",
+      "end_at": "2026-11-06",
+      "time": null,
+      "location": "경기 고양시 킨텍스 제2전시장 7·8홀",
+      "description": "수소 생산부터 저장·운송, 활용까지 산업 전반의 기술과 사업 전략을 논의하는 전시회로 개막일에 'H2 이노베이션 어워드' 시상식도 열립니다.",
+      "tags": [
+        "수소",
+        "엑스포",
+        "에너지"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20261101115152",
+      "created_at": "2026-11-01T17:12:27.538089+00:00"
+    },
+    {
+      "id": "zdb-20261101-07",
+      "title": "SK텔레콤·LG유플러스 3분기 실적발표",
+      "organizer": null,
+      "start_at": "2026-11-04",
+      "end_at": null,
+      "time": null,
+      "location": null,
+      "description": "SK텔레콤과 LG유플러스가 3분기 실적을 발표합니다.",
+      "tags": [
+        "통신",
+        "실적발표",
+        "SK텔레콤",
+        "LG유플러스"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20261101115152",
+      "created_at": "2026-11-01T17:12:27.538089+00:00"
+    },
+    {
+      "id": "zdb-20261101-12",
+      "title": "카카오게임즈 3분기 실적발표",
+      "organizer": "카카오게임즈",
+      "start_at": "2026-11-04",
+      "end_at": null,
+      "time": null,
+      "location": null,
+      "description": "카카오게임즈가 3분기 실적을 공개합니다.",
+      "tags": [
+        "게임",
+        "실적발표",
+        "카카오게임즈"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20261101115152",
+      "created_at": "2026-11-01T17:12:27.538089+00:00"
+    },
+    {
+      "id": "zdb-20261101-18",
+      "title": "2026 데이터센터코리아 미디어 데모 투어",
+      "organizer": "슈나이더 일렉트릭",
+      "start_at": "2026-11-04",
+      "end_at": null,
+      "time": null,
+      "location": "서울 양재 at센터",
+      "description": "슈나이더 일렉트릭이 전력망, 칩, 냉각 시스템 등 AI 데이터센터 통합 솔루션을 선보이는 미디어 데모 투어를 진행합니다.",
+      "tags": [
+        "AI",
+        "데이터센터",
+        "슈나이더일렉트릭"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20261101115152",
+      "created_at": "2026-11-01T17:12:27.538089+00:00"
+    },
+    {
+      "id": "zdb-20261101-19",
+      "title": "차세대 양자컴퓨팅 플랫폼 가동식",
+      "organizer": "연세대학교",
+      "start_at": "2026-11-04",
+      "end_at": null,
+      "time": null,
+      "location": "인천 송도 국제캠퍼스 양자컴퓨팅센터",
+      "description": "연세대가 IBM 양자 프로세서 '나이트호크'를 탑재한 차세대 양자컴퓨팅 플랫폼 가동식을 개최합니다.",
+      "tags": [
+        "양자컴퓨팅",
+        "연세대학교",
+        "IBM"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20261101115152",
+      "created_at": "2026-11-01T17:12:27.538089+00:00"
+    },
+    {
+      "id": "zdb-20261101-04",
+      "title": "롯데에너지머티리얼즈·에코프로·에코프로비엠·LG화학·엘앤에프 3분기 실적발표",
+      "organizer": null,
+      "start_at": "2026-11-05",
+      "end_at": null,
+      "time": null,
+      "location": null,
+      "description": "롯데에너지머티리얼즈, 에코프로, 에코프로비엠, LG화학, 엘앤에프 등 배터리 소재 기업들이 3분기 실적을 발표합니다.",
+      "tags": [
+        "배터리",
+        "실적발표",
+        "롯데에너지머티리얼즈",
+        "에코프로",
+        "LG화학",
+        "엘앤에프"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20261101115152",
+      "created_at": "2026-11-01T17:12:27.538089+00:00"
+    },
+    {
+      "id": "zdb-20261101-08",
+      "title": "CJ ENM 3분기 실적발표",
+      "organizer": "CJ ENM",
+      "start_at": "2026-11-05",
+      "end_at": null,
+      "time": null,
+      "location": null,
+      "description": "CJ ENM이 분기 실적을 발표하며 티빙 침해사고 보상 비용 반영 여부가 주목됩니다.",
+      "tags": [
+        "미디어",
+        "OTT",
+        "실적발표",
+        "CJ ENM"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20261101115152",
+      "created_at": "2026-11-01T17:12:27.538089+00:00"
+    },
+    {
+      "id": "zdb-20261101-09",
+      "title": "2026 국제 OTT 포럼",
+      "organizer": "방송미디어통신위원회",
+      "start_at": "2026-11-05",
+      "end_at": null,
+      "time": null,
+      "location": "서울 광화문 포시즌스호텔",
+      "description": "글로벌 OTT 산업의 수익화 전략과 K-OTT 해외 진출, AI 기반 제작 기술 등을 논의하는 포럼입니다.",
+      "tags": [
+        "OTT",
+        "미디어",
+        "방송미디어통신위원회"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20261101115152",
+      "created_at": "2026-11-01T17:12:27.538089+00:00"
+    },
+    {
+      "id": "zdb-20261101-10",
+      "title": "카카오 3분기 실적발표",
+      "organizer": "카카오",
+      "start_at": "2026-11-05",
+      "end_at": null,
+      "time": null,
+      "location": null,
+      "description": "카카오가 3분기 실적을 발표하며 톡비즈와 커머스 성장에 따른 수익성 개선이 예상됩니다.",
+      "tags": [
+        "플랫폼",
+        "실적발표",
+        "카카오"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20261101115152",
+      "created_at": "2026-11-01T17:12:27.538089+00:00"
+    },
+    {
+      "id": "zdb-20261101-13",
+      "title": "넷마블 3분기 실적발표 컨퍼런스콜",
+      "organizer": "넷마블",
+      "start_at": "2026-11-05",
+      "end_at": null,
+      "time": null,
+      "location": null,
+      "description": "넷마블이 신작 흥행 성과를 반영한 3분기 실적 발표 컨퍼런스콜을 진행합니다.",
+      "tags": [
+        "게임",
+        "실적발표",
+        "넷마블"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20261101115152",
+      "created_at": "2026-11-01T17:12:27.538089+00:00"
+    },
+    {
+      "id": "zdb-20261101-20",
+      "title": "몰로콘26 개최 기념 미디어 브리핑",
+      "organizer": "몰로코",
+      "start_at": "2026-11-05",
+      "end_at": null,
+      "time": null,
+      "location": "서울 강남구 몰로코 사무실",
+      "description": "몰로코가 글로벌 연례 행사 '몰로콘26' 개최를 기념해 AI 기반 퍼포먼스 광고 전략 등을 소개하는 미디어 브리핑을 진행합니다.",
+      "tags": [
+        "AI",
+        "광고",
+        "몰로코"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20261101115152",
+      "created_at": "2026-11-01T17:12:27.538089+00:00"
+    },
+    {
+      "id": "zdb-20261101-14",
+      "title": "웹젠 3분기 실적발표",
+      "organizer": "웹젠",
+      "start_at": "2026-11-06",
+      "end_at": null,
+      "time": null,
+      "location": null,
+      "description": "웹젠이 3분기 실적을 공개하며 신작 부재로 마이너스 성장 가능성이 거론됩니다.",
+      "tags": [
+        "게임",
+        "실적발표",
+        "웹젠"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20261101115152",
+      "created_at": "2026-11-01T17:12:27.538089+00:00"
     }
   ]
 }
