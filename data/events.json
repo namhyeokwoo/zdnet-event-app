@@ -1,67 +1,11 @@
 {
   "source_article": {
-    "url": "https://zdnet.co.kr/view/?no=20261108125202",
-    "title": "[ZD브리핑] 삼성·SK·LG 엔비디아 'AI 데이' 총출동 ..KT·네이버·게임 빅3 실적 발표",
-    "published_at": "2026-11-08T13:33:00+09:00"
+    "url": "https://zdnet.co.kr/view/?no=20261115124937",
+    "title": "[ZD브리핑] 삼성전자 갤럭시링 특허 분쟁 결론 임박...지스타·MS 이그나이트 개막",
+    "published_at": "2026-11-15T13:19:00+09:00"
   },
-  "generated_at": "2026-11-08T17:10:59.547682+00:00",
+  "generated_at": "2026-11-15T17:55:13.099916+00:00",
   "events": [
-    {
-      "id": "zdb-20251102-01",
-      "title": "2025 로보월드",
-      "organizer": "산업통상자원부",
-      "start_at": "2025-11-05",
-      "end_at": "2025-11-08",
-      "time": null,
-      "location": "경기 고양시 킨텍스",
-      "description": "국내 최대 규모 로봇 전시회로 국내외 350개사가 참여해 약 1천개 부스 규모로 진행된다.",
-      "tags": [
-        "로봇",
-        "산업통상자원부",
-        "한국로봇산업진흥원"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20251102121508",
-      "created_at": "2026-08-05T05:35:16.318719+00:00"
-    },
-    {
-      "id": "zdb-20251102-09",
-      "title": "던파모바일 온라인 아케이드 2025 쇼케이스",
-      "organizer": "넥슨",
-      "start_at": "2025-11-08",
-      "end_at": null,
-      "time": null,
-      "location": null,
-      "description": "던파모바일 만렙 확장 업데이트 소개와 2026년 상반기 업데이트 마일스톤을 공개하는 온라인 쇼케이스가 유튜브로 생중계된다.",
-      "tags": [
-        "게임",
-        "넥슨"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20251102121508",
-      "created_at": "2026-08-05T05:35:16.318719+00:00"
-    },
-    {
-      "id": "zdb-20251109-05",
-      "title": "AI 서밋 서울 & 엑스포 2025",
-      "organizer": null,
-      "start_at": "2025-11-10",
-      "end_at": "2025-11-11",
-      "time": null,
-      "location": "서울 코엑스",
-      "description": "국내 최대 규모 AI 전문 컨퍼런스로 마이크로소프트, 구글 클라우드, 삼성, KT 등이 참가해 생성형 AI와 엔터프라이즈 AI 전환을 논의한다.",
-      "tags": [
-        "AI",
-        "클라우드",
-        "마이크로소프트",
-        "구글",
-        "삼성전자",
-        "KT"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20251109112417",
-      "created_at": "2026-08-05T05:36:02.316490+00:00"
-    },
     {
       "id": "zdb-20251109-15",
       "title": "한국당뇨협회 '블루써클 챌린지' 캠페인",
@@ -74,188 +18,6 @@
       "tags": [
         "헬스케어",
         "한국당뇨협회"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20251109112417",
-      "created_at": "2026-08-05T05:36:02.316490+00:00"
-    },
-    {
-      "id": "zdb-20251109-06",
-      "title": "SAP코리아 설립 30주년 기념 간담회",
-      "organizer": "SAP코리아",
-      "start_at": "2025-11-11",
-      "end_at": null,
-      "time": null,
-      "location": "서울 여의도 IFC",
-      "description": "SAP코리아가 설립 30주년을 맞아 국내 디지털 전환 성과와 향후 비전을 소개하는 간담회를 개최한다.",
-      "tags": [
-        "소프트웨어",
-        "디지털전환",
-        "SAP코리아"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20251109112417",
-      "created_at": "2026-08-05T05:36:02.316490+00:00"
-    },
-    {
-      "id": "zdb-20251109-07",
-      "title": "클라우데라 '이볼브 포럼 서울' 미디어 브리핑",
-      "organizer": "클라우데라",
-      "start_at": "2025-11-11",
-      "end_at": null,
-      "time": null,
-      "location": "소피텔 엠배서더 서울",
-      "description": "클라우데라가 AI 시대 데이터 통합과 관리, 활용법에 대한 인사이트를 공유하는 미디어 브리핑을 개최한다.",
-      "tags": [
-        "데이터",
-        "AI",
-        "클라우데라"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20251109112417",
-      "created_at": "2026-08-05T05:36:02.316490+00:00"
-    },
-    {
-      "id": "zdb-20251109-08",
-      "title": "K-AI 리터러시 미래교육포럼",
-      "organizer": "더불어민주당 조인철 의원실·뤼튼테크놀로지스",
-      "start_at": "2025-11-11",
-      "end_at": null,
-      "time": null,
-      "location": "국회 의원회관",
-      "description": "AI 활용 교육 모델과 로드맵을 논의하는 포럼으로 뤼튼 이세영 대표 등이 참석한다.",
-      "tags": [
-        "AI",
-        "교육",
-        "뤼튼테크놀로지스"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20251109112417",
-      "created_at": "2026-08-05T05:36:02.316490+00:00"
-    },
-    {
-      "id": "zdb-20251109-02",
-      "title": "2026 AI-ICT 산업·기술전망 컨퍼런스",
-      "organizer": "과학기술정보통신부·정보통신기획평가원",
-      "start_at": "2025-11-12",
-      "end_at": "2025-11-14",
-      "time": null,
-      "location": "대한상공회의소",
-      "description": "AI와 ICT 산업 전망, R&D 투자방향, 기술 전망을 논의하며 내년 ICT 10대 이슈를 제시하는 컨퍼런스다.",
-      "tags": [
-        "AI",
-        "ICT",
-        "공공SW",
-        "과기정통부"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20251109112417",
-      "created_at": "2026-08-05T05:36:02.316490+00:00"
-    },
-    {
-      "id": "zdb-20251109-04",
-      "title": "2025대한민국게임대상 시상식",
-      "organizer": null,
-      "start_at": "2025-11-12",
-      "end_at": null,
-      "time": null,
-      "location": null,
-      "description": "지스타 개막에 앞서 2025대한민국게임대상 시상식이 열리며 마비노기 모바일, 퍼스트 버서커: 카잔 등이 본상 후보에 올랐다.",
-      "tags": [
-        "게임",
-        "대한민국게임대상",
-        "넥슨",
-        "네오플"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20251109112417",
-      "created_at": "2026-08-05T05:36:02.316490+00:00"
-    },
-    {
-      "id": "zdb-20251109-09",
-      "title": "이노그리드 'IC3 2025'",
-      "organizer": "이노그리드",
-      "start_at": "2025-11-12",
-      "end_at": null,
-      "time": null,
-      "location": "서울 파르나스 호텔",
-      "description": "'모두의 AI·클라우드 유니버스'를 주제로 국내 AI·클라우드 산업 현황과 최신 기술을 소개하는 전시 행사다.",
-      "tags": [
-        "AI",
-        "클라우드",
-        "이노그리드"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20251109112417",
-      "created_at": "2026-08-05T05:36:02.316490+00:00"
-    },
-    {
-      "id": "zdb-20251109-10",
-      "title": "'AI와 양자 포토닉스의 융합' 세미나",
-      "organizer": "주한 프랑스대사관·콴델라",
-      "start_at": "2025-11-12",
-      "end_at": null,
-      "time": null,
-      "location": "서울 서초동 프랑스대사관",
-      "description": "AI와 양자포토닉스 기술 융합이 만드는 새로운 산업 생태계를 조명하는 세미나로 콴델라 CEO 등이 연사로 참여한다.",
-      "tags": [
-        "AI",
-        "양자기술",
-        "콴델라"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20251109112417",
-      "created_at": "2026-08-05T05:36:02.316490+00:00"
-    },
-    {
-      "id": "zdb-20251109-11",
-      "title": "국방 인공지능 혁신 네트워크",
-      "organizer": "한국국방연구원(KIDA)·과실연 AI미래포럼",
-      "start_at": "2025-11-12",
-      "end_at": null,
-      "time": null,
-      "location": null,
-      "description": "국방 소버린 AI를 주제로 방산기업의 AI 전략과 국가 LLM 개발 동향을 논의하는 행사다.",
-      "tags": [
-        "AI",
-        "국방",
-        "한화시스템",
-        "NC AI"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20251109112417",
-      "created_at": "2026-08-05T05:36:02.316490+00:00"
-    },
-    {
-      "id": "zdb-20251109-14",
-      "title": "2025 바이오헬스 글로벌 오픈이노베이션 위크",
-      "organizer": null,
-      "start_at": "2025-11-12",
-      "end_at": "2025-11-14",
-      "time": null,
-      "location": "양재 엘타워",
-      "description": "제약바이오 및 의료기기 등 바이오헬스 분야 국내외 기업 파트너링과 오픈이노베이션 성과 공유가 이뤄지는 행사다.",
-      "tags": [
-        "바이오헬스",
-        "오픈이노베이션"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20251109112417",
-      "created_at": "2026-08-05T05:36:02.316490+00:00"
-    },
-    {
-      "id": "zdb-20251109-16",
-      "title": "2025년 글로벌 개인정보보호 웨비나(1회차)",
-      "organizer": "개인정보보호위원회·한국인터넷진흥원(KISA)",
-      "start_at": "2025-11-12",
-      "end_at": null,
-      "time": null,
-      "location": null,
-      "description": "한·EU 동등성 인정 제도 관련 국내 제도를 중심으로 설명하는 웨비나 1회차가 열린다.",
-      "tags": [
-        "개인정보보호",
-        "공공SW",
-        "KISA"
       ],
       "source": "zdbriefing",
       "source_url": "https://zdnet.co.kr/view/?no=20251109112417",
@@ -282,24 +44,6 @@
       "created_at": "2026-08-05T05:36:02.316490+00:00"
     },
     {
-      "id": "zdb-20251109-12",
-      "title": "데이터 & AI로 여는 2026년 정부 조달 트렌드 컨퍼런스",
-      "organizer": "클라이원트",
-      "start_at": "2025-11-13",
-      "end_at": null,
-      "time": null,
-      "location": "서울 강남구 디캠프",
-      "description": "2026년도 정부 조달 시장 핵심 방향과 AI·DX 사업 트렌드를 데이터 기반으로 조망하는 컨퍼런스다.",
-      "tags": [
-        "AI",
-        "공공SW",
-        "클라이원트"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20251109112417",
-      "created_at": "2026-08-05T05:36:02.316490+00:00"
-    },
-    {
       "id": "zdb-20251116-08",
       "title": "지스타 2025",
       "organizer": null,
@@ -316,59 +60,6 @@
       "source": "zdbriefing",
       "source_url": "https://zdnet.co.kr/view/?no=20251116122703",
       "created_at": "2026-08-05T05:36:54.023444+00:00"
-    },
-    {
-      "id": "zdb-20251109-01",
-      "title": "메르세데스-벤츠 미래 전략 컨퍼런스",
-      "organizer": "메르세데스-벤츠",
-      "start_at": "2025-11-14",
-      "end_at": null,
-      "time": null,
-      "location": "인천 파라다이스시티",
-      "description": "올라 칼레니우스 메르세데스-벤츠 회장이 참석해 한국 시장 전략을 발표하고 삼성·LG·SK 등 협력사 관계자들과 회동할 예정이다.",
-      "tags": [
-        "자동차",
-        "메르세데스-벤츠",
-        "삼성전자"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20251109112417",
-      "created_at": "2026-08-05T05:36:02.316490+00:00"
-    },
-    {
-      "id": "zdb-20251109-13",
-      "title": "다쏘시스템 매뉴팩처링 캠페인",
-      "organizer": "다쏘시스템",
-      "start_at": "2025-11-14",
-      "end_at": null,
-      "time": null,
-      "location": "서울 삼성동 코엑스·아셈타워",
-      "description": "다쏘시스템이 제조업 분야 가상세계 활용 사례를 보여주는 글로벌 캠페인을 코엑스 옥외 스크린 등에서 진행한다.",
-      "tags": [
-        "제조",
-        "가상세계",
-        "다쏘시스템"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20251109112417",
-      "created_at": "2026-08-05T05:36:02.316490+00:00"
-    },
-    {
-      "id": "zdb-20251109-18",
-      "title": "2025 KIISC 위험관리 및 보안평가 워크숍",
-      "organizer": "한국정보보호학회",
-      "start_at": "2025-11-14",
-      "end_at": null,
-      "time": null,
-      "location": null,
-      "description": "국방·공공·민간 분야 사이버보안 체계의 위험관리와 보안기술 동향을 공유하는 워크숍이 열린다.",
-      "tags": [
-        "보안",
-        "한국정보보호학회"
-      ],
-      "source": "zdbriefing",
-      "source_url": "https://zdnet.co.kr/view/?no=20251109112417",
-      "created_at": "2026-08-05T05:36:02.316490+00:00"
     },
     {
       "id": "zdb-20251116-05",
@@ -4972,6 +4663,77 @@
       "created_at": "2026-11-08T17:10:59.547469+00:00"
     },
     {
+      "id": "zdb-20261115-01",
+      "title": "삼성전자 등 3분기 분기보고서 제출 마감",
+      "organizer": "삼성전자",
+      "start_at": "2026-11-16",
+      "end_at": null,
+      "time": null,
+      "location": null,
+      "description": "삼성전자, SK하이닉스 등 주요 기업들의 3분기 분기보고서 제출 마감기한이 도래해 구체적인 실적이 공개될 전망이다.",
+      "tags": [
+        "실적발표",
+        "삼성전자",
+        "SK하이닉스"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20261115124937",
+      "created_at": "2026-11-15T17:55:13.099723+00:00"
+    },
+    {
+      "id": "zdb-20261115-09",
+      "title": "포스코 노조 퇴근 선전전",
+      "organizer": "포스코 노동조합",
+      "start_at": "2026-11-16",
+      "end_at": null,
+      "time": null,
+      "location": "포항·광양제철소",
+      "description": "포스코 노조가 임금협상 갈등 속에 포항·광양제철소에서 무기한 퇴근 선전전을 시작한다.",
+      "tags": [
+        "노동",
+        "포스코"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20261115124937",
+      "created_at": "2026-11-15T17:55:13.099723+00:00"
+    },
+    {
+      "id": "zdb-20261115-17",
+      "title": "의협 건보공단 특사경 반대 규탄대회",
+      "organizer": "대한의사협회",
+      "start_at": "2026-11-16",
+      "end_at": null,
+      "time": "09:00",
+      "location": "국회의사당 정문",
+      "description": "건보공단에 특별사법경찰 권한을 부여하는 법안에 반대하며 대한의사협회가 규탄대회를 개최한다.",
+      "tags": [
+        "의료",
+        "정책",
+        "대한의사협회"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20261115124937",
+      "created_at": "2026-11-15T17:55:13.099723+00:00"
+    },
+    {
+      "id": "zdb-20261115-18",
+      "title": "AI 의료기술 정책 세미나",
+      "organizer": "한국보건의료연구원",
+      "start_at": "2026-11-16",
+      "end_at": null,
+      "time": "10:00",
+      "location": "서울 코엑스 컨퍼런스룸",
+      "description": "한국보건의료연구원이 AI 의료기술의 인허가·평가·정책 동향을 공유하는 세미나를 개최한다.",
+      "tags": [
+        "AI",
+        "의료",
+        "한국보건의료연구원"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20261115124937",
+      "created_at": "2026-11-15T17:55:13.099723+00:00"
+    },
+    {
       "id": "zdb-20261108-03",
       "title": "효성중공업 노조 전면파업 예고",
       "organizer": "효성중공업 노조",
@@ -4987,6 +4749,272 @@
       "source": "zdbriefing",
       "source_url": "https://zdnet.co.kr/view/?no=20261108125202",
       "created_at": "2026-11-08T17:10:59.547469+00:00"
+    },
+    {
+      "id": "zdb-20261115-05",
+      "title": "마크 카니 캐나다 총리-시진핑 회담",
+      "organizer": null,
+      "start_at": "2026-11-17",
+      "end_at": null,
+      "time": null,
+      "location": "중국",
+      "description": "캐나다 마크 카니 총리가 시진핑 중국 국가주석과 만나 자동차 산업 관련 투자 논의 가능성이 제기된다.",
+      "tags": [
+        "자동차",
+        "캐나다",
+        "중국"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20261115124937",
+      "created_at": "2026-11-15T17:55:13.099723+00:00"
+    },
+    {
+      "id": "zdb-20261115-08",
+      "title": "포스코 노조 상경투쟁",
+      "organizer": "포스코 노동조합",
+      "start_at": "2026-11-17",
+      "end_at": null,
+      "time": null,
+      "location": "서울 포스코센터",
+      "description": "임금협상 잠정합의안 부결과 재교섭 결렬로 포스코 노조가 포스코센터 앞에서 상경투쟁을 벌인다.",
+      "tags": [
+        "노동",
+        "포스코"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20261115124937",
+      "created_at": "2026-11-15T17:55:13.099723+00:00"
+    },
+    {
+      "id": "zdb-20261115-13",
+      "title": "마이크로소프트 이그나이트 2026",
+      "organizer": "마이크로소프트",
+      "start_at": "2026-11-17",
+      "end_at": "2026-11-20",
+      "time": null,
+      "location": "미국 샌프란시스코 모스콘센터",
+      "description": "마이크로소프트가 연례 기술 행사 이그나이트 2026을 개최해 AI 에이전트, 클라우드, 보안 기술 전략을 공개한다.",
+      "tags": [
+        "클라우드",
+        "AI",
+        "마이크로소프트"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20261115124937",
+      "created_at": "2026-11-15T17:55:13.099723+00:00"
+    },
+    {
+      "id": "zdb-20261115-14",
+      "title": "제64회 AI Is Anywhere 조찬포럼",
+      "organizer": "한국인공지능산업협회",
+      "start_at": "2026-11-17",
+      "end_at": null,
+      "time": null,
+      "location": "서울 양재 엘타워",
+      "description": "한국인공지능산업협회가 AI 시대 에너지 산업 변화와 토큰 자본 등을 주제로 조찬포럼을 개최한다.",
+      "tags": [
+        "AI",
+        "한국인공지능산업협회"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20261115124937",
+      "created_at": "2026-11-15T17:55:13.099723+00:00"
+    },
+    {
+      "id": "zdb-20261115-19",
+      "title": "2026 간호정책 선포식",
+      "organizer": "대한간호협회",
+      "start_at": "2026-11-17",
+      "end_at": null,
+      "time": "13:30",
+      "location": "서울 장충체육관",
+      "description": "대한간호협회가 간호사 1인당 환자 수 5명 법제화를 핵심으로 한 간호 공공성·전문성 강화 4대 혁신안을 발표한다.",
+      "tags": [
+        "의료",
+        "간호",
+        "대한간호협회"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20261115124937",
+      "created_at": "2026-11-15T17:55:13.099723+00:00"
+    },
+    {
+      "id": "zdb-20261115-02",
+      "title": "삼성전자 투자자 포럼 2026",
+      "organizer": "삼성전자",
+      "start_at": "2026-11-18",
+      "end_at": null,
+      "time": null,
+      "location": "싱가포르",
+      "description": "삼성전자가 싱가포르에서 글로벌 투자자를 대상으로 메모리·파운드리 등 DS부문과 DX부문의 기술·사업 전략을 소개하는 포럼을 개최한다.",
+      "tags": [
+        "반도체",
+        "삼성전자",
+        "투자자포럼"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20261115124937",
+      "created_at": "2026-11-15T17:55:13.099723+00:00"
+    },
+    {
+      "id": "zdb-20261115-04",
+      "title": "제33차 APEC 정상회의",
+      "organizer": "APEC",
+      "start_at": "2026-11-18",
+      "end_at": "2026-11-19",
+      "time": null,
+      "location": "중국 선전",
+      "description": "중국 선전에서 APEC 정상회의가 열려 이재명 대통령과 시진핑 주석 등이 참석해 경제협력과 AI 등 현안을 논의한다.",
+      "tags": [
+        "국제회의",
+        "APEC",
+        "AI"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20261115124937",
+      "created_at": "2026-11-15T17:55:13.099723+00:00"
+    },
+    {
+      "id": "zdb-20261115-11",
+      "title": "대한민국전파산업대전",
+      "organizer": "한국전파진흥협회",
+      "start_at": "2026-11-18",
+      "end_at": "2026-11-20",
+      "time": null,
+      "location": "서울 삼성동 코엑스",
+      "description": "한국전파진흥협회가 위성, 국방, 특화망, 방송 등 전파 관련 다양한 분야의 콘퍼런스를 포함한 전파산업대전을 개최한다.",
+      "tags": [
+        "전파",
+        "통신"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20261115124937",
+      "created_at": "2026-11-15T17:55:13.099723+00:00"
+    },
+    {
+      "id": "zdb-20261115-15",
+      "title": "2026 AI휴먼소사이어티 국회 AI 정책포럼",
+      "organizer": "AI휴먼소사이어티",
+      "start_at": "2026-11-18",
+      "end_at": null,
+      "time": null,
+      "location": "국회 의원회관",
+      "description": "AI기본법 시행 원년의 성과와 과제를 논의하는 국회 AI 정책포럼이 열린다.",
+      "tags": [
+        "AI",
+        "정책",
+        "국회"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20261115124937",
+      "created_at": "2026-11-15T17:55:13.099723+00:00"
+    },
+    {
+      "id": "zdb-20261115-06",
+      "title": "현대차 2026 LA 오토쇼 참가 및 신차 공개",
+      "organizer": "현대자동차",
+      "start_at": "2026-11-19",
+      "end_at": null,
+      "time": null,
+      "location": "미국 로스앤젤레스",
+      "description": "현대차가 오토모빌리티 LA에서 신형 아반떼의 현지 모델인 '엘란트라'로 추정되는 글로벌 신차를 공개할 예정이다.",
+      "tags": [
+        "자동차",
+        "현대자동차"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20261115124937",
+      "created_at": "2026-11-15T17:55:13.099723+00:00"
+    },
+    {
+      "id": "zdb-20261115-12",
+      "title": "지스타 2026",
+      "organizer": "뤼튼테크놀로지스",
+      "start_at": "2026-11-19",
+      "end_at": "2026-11-22",
+      "time": null,
+      "location": "부산 벡스코",
+      "description": "국내 대표 게임 축제 지스타 2026이 부산 벡스코에서 열리며 AI 기업 뤼튼테크놀로지스가 메인 스폰서로 참가한다.",
+      "tags": [
+        "게임",
+        "AI",
+        "뤼튼테크놀로지스",
+        "크래프톤"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20261115124937",
+      "created_at": "2026-11-15T17:55:13.099723+00:00"
+    },
+    {
+      "id": "zdb-20261115-16",
+      "title": "앤트로픽 나스닥 상장 추진",
+      "organizer": "앤트로픽",
+      "start_at": "2026-11-19",
+      "end_at": null,
+      "time": null,
+      "location": "미국 나스닥",
+      "description": "AI 기업 앤트로픽이 나스닥 상장을 추진하며 최대 644억 달러 조달과 1조4천억 달러 기업가치를 목표로 한다.",
+      "tags": [
+        "AI",
+        "앤트로픽",
+        "상장"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20261115124937",
+      "created_at": "2026-11-15T17:55:13.099723+00:00"
+    },
+    {
+      "id": "zdb-20261115-03",
+      "title": "삼성전자·오우라 스마트링 특허 분쟁 ITC 1차 결론",
+      "organizer": "미국 국제무역위원회(ITC)",
+      "start_at": "2026-11-20",
+      "end_at": null,
+      "time": null,
+      "location": "미국",
+      "description": "삼성전자와 오우라의 스마트링 특허침해 조사에 대한 ITC의 1차 판단이 나오며, 결과에 따라 갤럭시링의 미국 수입 제한 여부가 좌우될 전망이다.",
+      "tags": [
+        "디지털헬스케어",
+        "특허",
+        "삼성전자",
+        "오우라"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20261115124937",
+      "created_at": "2026-11-15T17:55:13.099723+00:00"
+    },
+    {
+      "id": "zdb-20261115-07",
+      "title": "2026 LA 오토쇼 일반 관람객 전시",
+      "organizer": null,
+      "start_at": "2026-11-20",
+      "end_at": "2026-11-29",
+      "time": null,
+      "location": "미국 로스앤젤레스",
+      "description": "LA 오토쇼의 일반 관람객 대상 전시가 진행되며 전기차·하이브리드 수요가 많은 캘리포니아 시장 흐름을 확인할 수 있는 자리다.",
+      "tags": [
+        "자동차",
+        "모터쇼"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20261115124937",
+      "created_at": "2026-11-15T17:55:13.099723+00:00"
+    },
+    {
+      "id": "zdb-20261115-10",
+      "title": "디지털재난안전관리법 제정 공청회",
+      "organizer": null,
+      "start_at": "2026-11-20",
+      "end_at": null,
+      "time": null,
+      "location": null,
+      "description": "방송통신발전기본법 등에 분산된 안전관리 규정을 통합하는 디지털재난안전관리법 제정을 위한 공청회가 열린다.",
+      "tags": [
+        "공공SW",
+        "정책"
+      ],
+      "source": "zdbriefing",
+      "source_url": "https://zdnet.co.kr/view/?no=20261115124937",
+      "created_at": "2026-11-15T17:55:13.099723+00:00"
     }
   ]
 }
